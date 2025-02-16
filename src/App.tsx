@@ -93,7 +93,7 @@ function App() {
         <Marker
           position={markerPosition}
           icon={icon({
-            iconUrl: "../public/location_on.svg",
+            iconUrl: "./location_on.svg",
             iconSize: [35, 35],
           })}
         />
