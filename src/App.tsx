@@ -1,4 +1,4 @@
-import type { LatLngExpression, Map as llMap } from "leaflet";
+import { type LatLngExpression, icon, type Map as llMap } from "leaflet";
 import type React from "react";
 import { useRef, useState } from "react";
 import { MapContainer, Marker, TileLayer } from "react-leaflet";
@@ -90,7 +90,13 @@ function App() {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}"
         />
-        <Marker position={markerPosition} />
+        <Marker
+          position={markerPosition}
+          icon={icon({
+            iconUrl: "../public/location_on.svg",
+            iconSize: [35, 35],
+          })}
+        />
       </MapContainer>
       {/* Roulette */}
       <DisplayPosition
