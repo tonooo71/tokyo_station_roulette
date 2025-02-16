@@ -42,7 +42,7 @@ function App() {
   };
 
   return (
-    <div className="mx-auto p-4 max-w-xl flex flex-col gap-4 relative h-lvh">
+    <div className="mx-auto p-4 max-w-xl flex flex-col gap-4 relative h-svh">
       {/* Header */}
       <div className="navbar shadow-sm">
         <div className="flex-1 text-2xl font-bold pl-2">
