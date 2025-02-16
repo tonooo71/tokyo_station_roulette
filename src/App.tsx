@@ -7,13 +7,11 @@ import StationRoulette from "./StationRoulette";
 import { SettingsIcon } from "./icons";
 
 type Props = {
-  ready: boolean;
   map: React.RefObject<llMap>;
   cityOption: number;
   setMarkerPosition: (markerPosition: LatLngExpression) => void;
 };
 const DisplayPosition: React.FC<Props> = ({
-  ready,
   map,
   cityOption,
   setMarkerPosition,
@@ -31,7 +29,6 @@ const DisplayPosition: React.FC<Props> = ({
 function App() {
   // nntama(5), nstama(4), nwtama(3), stama(2), wtama(1), wards(0)
   const [cityOption, setCityOption] = useState<number>(1);
-  const [ready, setReady] = useState(false);
   const [markerPosition, setMarkerPosition] = useState<LatLngExpression>([
     35.6815252972399, 139.76698937040683,
   ]);
@@ -87,7 +84,6 @@ function App() {
         zoom={13}
         scrollWheelZoom={false}
         ref={map}
-        whenReady={() => setReady(true)}
         className="w-full h-0 grow"
       >
         <TileLayer
@@ -98,7 +94,6 @@ function App() {
       </MapContainer>
       {/* Roulette */}
       <DisplayPosition
-        ready={ready}
         map={map as React.RefObject<llMap>}
         cityOption={cityOption}
         setMarkerPosition={setMarkerPosition}
