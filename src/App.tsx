@@ -7,6 +7,7 @@ import { MapContainer, Marker, TileLayer } from "react-leaflet";
 import CityOption from "./CityOption";
 import StationRoulette from "./StationRoulette";
 import { SettingsIcon } from "./icons";
+import { getNumberFromLocalStorage, setNumberToLocalStorage } from "./storage";
 
 const DefaultIcon = leaflet.icon({
   iconUrl: markerIcon,
@@ -38,14 +39,19 @@ const DisplayPosition: React.FC<Props> = ({
 
 function App() {
   // wtama(4), stama(3), ntama(2), w23(1), e23(0)
-  const [cityOption, setCityOption] = useState<number>(1);
+  const [cityOption, setCityOption] = useState<number>(
+    getNumberFromLocalStorage("cityOption", 0b11111),
+  );
   const [markerPosition, setMarkerPosition] = useState<LatLngExpression>([
     35.6815252972399, 139.76698937040683,
   ]);
   const map = useRef<llMap>(null);
 
-  const toggleCityOption = (bit: number) =>
-    setCityOption((co) => co ^ (1 << bit));
+  const toggleCityOption = (bit: number) => {
+    const nextCityOption = cityOption ^ (1 << bit);
+    setCityOption(nextCityOption);
+    setNumberToLocalStorage("cityOption", nextCityOption);
+  };
 
   const handleClickSettings = () => {
     (document.getElementById("setting_modal") as HTMLDialogElement).showModal();
