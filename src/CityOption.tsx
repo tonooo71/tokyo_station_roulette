@@ -5,12 +5,11 @@ type Props = {
   toggleCityOption: (bit: number) => void;
 };
 const CityOption: React.FC<Props> = ({ cityOption, toggleCityOption }) => {
-  const nntama = ((1 << 5) & cityOption) === 1 << 5;
-  const nstama = ((1 << 4) & cityOption) === 1 << 4;
-  const nwtama = ((1 << 3) & cityOption) === 1 << 3;
-  const stama = ((1 << 2) & cityOption) === 1 << 2;
-  const wtama = ((1 << 1) & cityOption) === 1 << 1;
-  const wards = ((1 << 0) & cityOption) === 1 << 0;
+  const wtama = ((1 << 4) & cityOption) === 1 << 4;
+  const stama = ((1 << 3) & cityOption) === 1 << 3;
+  const ntama = ((1 << 2) & cityOption) === 1 << 2;
+  const w23 = ((1 << 1) & cityOption) === 1 << 1;
+  const e23 = ((1 << 0) & cityOption) === 1 << 0;
 
   return (
     <div>
@@ -19,51 +18,41 @@ const CityOption: React.FC<Props> = ({ cityOption, toggleCityOption }) => {
       <div className="flex flex-col gap-4">
         <div className="flex gap-2">
           <input
-            id="cb_wards"
+            id="cb_e23"
             type="checkbox"
             className="checkbox checkbox-lg"
-            checked={wards}
+            checked={e23}
             onChange={() => toggleCityOption(0)}
-            disabled
+            disabled={cityOption === 1 << 0}
           />
-          <label htmlFor="cb_wards" className="my-auto text-lg grow">
-            23区
+          <label htmlFor="cb_e23" className="my-auto text-lg grow">
+            23区東部
           </label>
         </div>
         <div className="flex gap-2">
           <input
-            id="cb_nntama"
+            id="cb_w23"
             type="checkbox"
             className="checkbox checkbox-lg"
-            checked={nntama}
-            onChange={() => toggleCityOption(5)}
+            checked={w23}
+            onChange={() => toggleCityOption(1)}
+            disabled={cityOption === 1 << 1}
           />
-          <label htmlFor="cb_nntama" className="my-auto text-lg grow">
-            北多摩北部
+          <label htmlFor="cb_w23" className="my-auto text-lg grow">
+            23区西部
           </label>
         </div>
         <div className="flex gap-2">
           <input
-            id="cb_nstama"
+            id="cb_ntama"
             type="checkbox"
             className="checkbox checkbox-lg"
-            checked={nstama}
-            onChange={() => toggleCityOption(4)}
+            checked={ntama}
+            onChange={() => toggleCityOption(2)}
+            disabled={cityOption === 1 << 2}
           />
-          <label htmlFor="cb_nstama" className="my-auto text-lg grow">
-            北多摩南部
-          </label>
-        </div>
-        <div className="flex gap-2">
-          <input
-            id="cb_nwtama"
-            type="checkbox"
-            className="checkbox checkbox-lg"
-            checked={nwtama}
-            onChange={() => toggleCityOption(3)}
-          />
-          <label htmlFor="cb_nwtama" className="my-auto text-lg grow">
-            北多摩西部
+          <label htmlFor="cb_ntama" className="my-auto text-lg grow">
+            多摩北部
           </label>
         </div>
         <div className="flex gap-2">
@@ -72,10 +61,11 @@ const CityOption: React.FC<Props> = ({ cityOption, toggleCityOption }) => {
             type="checkbox"
             className="checkbox checkbox-lg"
             checked={stama}
-            onChange={() => toggleCityOption(2)}
+            onChange={() => toggleCityOption(3)}
+            disabled={cityOption === 1 << 3}
           />
           <label htmlFor="cb_stama" className="my-auto text-lg grow">
-            南多摩
+            多摩南部
           </label>
         </div>
         <div className="flex gap-2">
@@ -84,10 +74,11 @@ const CityOption: React.FC<Props> = ({ cityOption, toggleCityOption }) => {
             type="checkbox"
             className="checkbox checkbox-lg"
             checked={wtama}
-            onChange={() => toggleCityOption(1)}
+            onChange={() => toggleCityOption(4)}
+            disabled={cityOption === 1 << 4}
           />
           <label htmlFor="cb_wtama" className="my-auto text-lg grow">
-            西多摩
+            多摩西部
           </label>
         </div>
       </div>

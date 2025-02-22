@@ -4,231 +4,210 @@
     "address": "千代田区丸の内一丁目",
     "lon": 139.766103,
     "lat": 35.681391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新橋",
     "address": "港区新橋二丁目17",
     "lon": 139.758587,
     "lat": 35.666195,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "品川",
     "address": "港区高輪三丁目26-27",
     "lon": 139.738999,
     "lat": 35.62876,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大崎",
     "address": "品川区大崎一丁目21-4",
     "lon": 139.728439,
     "lat": 35.619772,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "五反田",
     "address": "品川区東五反田一丁目26",
     "lon": 139.723822,
     "lat": 35.625974,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "目黒",
     "address": "品川区上大崎二丁目16-9",
     "lon": 139.715775,
     "lat": 35.633923,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "恵比寿",
     "address": "渋谷区恵比寿南一丁目5-5",
     "lon": 139.71007,
     "lat": 35.646685,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "渋谷",
     "address": "渋谷区道玄坂一丁目1-1",
     "lon": 139.701238,
     "lat": 35.658871,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "原宿",
     "address": "渋谷区神宮前一丁目18",
     "lon": 139.702592,
     "lat": 35.670646,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "代々木",
     "address": "渋谷区代々木一丁目34-1",
     "lon": 139.702042,
     "lat": 35.683061,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新宿",
     "address": "新宿区新宿三丁目38-1",
     "lon": 139.700464,
     "lat": 35.689729,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新大久保",
     "address": "新宿区百人町一丁目10-15",
     "lon": 139.700261,
     "lat": 35.700875,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高田馬場",
     "address": "新宿区高田馬場一丁目35-1",
     "lon": 139.703715,
     "lat": 35.712677,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "目白",
     "address": "豊島区目白三丁目3-1",
     "lon": 139.706228,
     "lat": 35.720476,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "池袋",
     "address": "豊島区南池袋一丁目28-2",
     "lon": 139.711086,
     "lat": 35.730256,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大塚",
     "address": "豊島区南大塚三丁目33-1",
     "lon": 139.728584,
     "lat": 35.731412,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "巣鴨",
     "address": "豊島区巣鴨一丁目16-1",
     "lon": 139.739303,
     "lat": 35.733445,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "駒込",
     "address": "豊島区駒込二丁目1-1",
     "lon": 139.748053,
     "lat": 35.736825,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "田端",
     "address": "北区東田端一丁目17-1",
     "lon": 139.761229,
     "lat": 35.737781,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西日暮里",
     "address": "荒川区西日暮里五丁目22-1",
     "lon": 139.766857,
     "lat": 35.731954,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "日暮里",
     "address": "荒川区西日暮里二丁目19-1",
     "lon": 139.771287,
     "lat": 35.727908,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "鶯谷",
     "address": "台東区根岸一丁目4-1",
     "lon": 139.778015,
     "lat": 35.721484,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "上野",
     "address": "台東区上野七丁目1-1",
     "lon": 139.777043,
     "lat": 35.71379,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "御徒町",
     "address": "台東区上野五丁目27",
     "lon": 139.774727,
     "lat": 35.707282,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "秋葉原",
     "address": "千代田区外神田一丁目17",
     "lon": 139.773288,
     "lat": 35.698619,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "神田",
     "address": "千代田区鍛冶町二丁目13-1",
     "lon": 139.770641,
     "lat": 35.691173,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目9-1",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "有楽町",
     "address": "千代田区有楽町二丁目9",
     "lon": 139.763806,
     "lat": 35.675441,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区新橋二丁目17",
-    "lon": 139.758587,
-    "lat": 35.666195,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浜松町",
     "address": "港区海岸一丁目3-1",
     "lon": 139.757135,
     "lat": 35.655391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "田町",
     "address": "港区芝五丁目33-36",
     "lon": 139.747575,
     "lat": 35.645736,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高輪ゲートウェイ",
     "address": "港区港南二丁目10-145",
     "lon": 139.7407,
     "lat": 35.6355,
-    "area": "wards"
-  },
-  {
-    "name": "品川",
-    "address": "港区高輪三丁目26-26",
-    "lon": 139.738999,
-    "lat": 35.62876,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "矢野口",
@@ -256,84 +235,77 @@
     "address": "府中市本町1丁目",
     "lon": 139.477142,
     "lat": 35.665766,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "分倍河原",
     "address": "府中市片町2丁目",
     "lon": 139.468798,
     "lat": 35.668493,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "西府",
     "address": "府中市本宿町一丁目40-6",
     "lon": 139.457477,
     "lat": 35.670912,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "谷保",
     "address": "国立市谷保町",
     "lon": 139.446724,
     "lat": 35.681377,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "矢川",
     "address": "国立市谷保石田",
     "lon": 139.431611,
     "lat": 35.685079,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "西国立",
     "address": "立川市羽衣町1丁目",
     "lon": 139.423887,
     "lat": 35.69375,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "立川",
     "address": "立川市曙町二丁目1-1",
     "lon": 139.413704,
     "lat": 35.698202,
-    "area": "nwtama"
-  },
-  {
-    "name": "府中本町",
-    "address": "府中市本町1丁目",
-    "lon": 139.477142,
-    "lat": 35.665766,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "北府中",
     "address": "府中市晴見町2丁目",
     "lon": 139.471792,
     "lat": 35.68088,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "西国分寺",
     "address": "国分寺市西恋ケ窪2丁目",
     "lon": 139.465994,
     "lat": 35.699744,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "新小平",
     "address": "小平市小川町2丁目",
     "lon": 139.470745,
     "lat": 35.73128,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "新秋津",
     "address": "東村山市秋津町5丁目",
     "lon": 139.493592,
     "lat": 35.778331,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "成瀬",
@@ -378,81 +350,39 @@
     "area": "stama"
   },
   {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区新橋二丁目17",
-    "lon": 139.758587,
-    "lat": 35.666195,
-    "area": "wards"
-  },
-  {
-    "name": "品川",
-    "address": "港区高輪三丁目26-26",
-    "lon": 139.738999,
-    "lat": 35.62876,
-    "area": "wards"
-  },
-  {
     "name": "西大井",
     "address": "品川区西大井1丁目",
     "lon": 139.721729,
     "lat": 35.601616,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "四ツ谷",
     "address": "新宿区四谷一丁目",
     "lon": 139.730644,
     "lat": 35.686041,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "吉祥寺",
     "address": "武蔵野市吉祥寺南町",
     "lon": 139.579765,
     "lat": 35.703119,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "三鷹",
     "address": "三鷹市下連雀三丁目46-1",
     "lon": 139.560325,
     "lat": 35.702683,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "国分寺",
     "address": "国分寺市本町二丁目1-23",
     "lon": 139.480841,
     "lat": 35.700123,
-    "area": "nwtama"
-  },
-  {
-    "name": "立川",
-    "address": "立川市曙町二丁目1-1",
-    "lon": 139.413704,
-    "lat": 35.698202,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "日野",
@@ -466,13 +396,6 @@
     "address": "日野市豊田4丁目",
     "lon": 139.381495,
     "lat": 35.659502,
-    "area": "stama"
-  },
-  {
-    "name": "八王子",
-    "address": "八王子市旭町1-1",
-    "lon": 139.338998,
-    "lat": 35.655555,
     "area": "stama"
   },
   {
@@ -490,431 +413,221 @@
     "area": "stama"
   },
   {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "神田",
-    "address": "千代田区鍛冶町二丁目13-1",
-    "lon": 139.770641,
-    "lat": 35.691173,
-    "area": "wards"
-  },
-  {
     "name": "御茶ノ水",
     "address": "千代田区神田駿河台二丁目6-1",
     "lon": 139.764955,
     "lat": 35.699605,
-    "area": "wards"
-  },
-  {
-    "name": "四ツ谷",
-    "address": "新宿区四谷一丁目",
-    "lon": 139.730644,
-    "lat": 35.686041,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中野",
     "address": "中野区中野5丁目",
     "lon": 139.665835,
     "lat": 35.705765,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高円寺",
     "address": "杉並区高円寺南4丁目",
     "lon": 139.649664,
     "lat": 35.705326,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "阿佐ケ谷",
     "address": "杉並区阿佐谷南三丁目36-3",
     "lon": 139.635868,
     "lat": 35.704818,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "荻窪",
     "address": "杉並区上荻1丁目",
     "lon": 139.620109,
     "lat": 35.704523,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西荻窪",
     "address": "杉並区西荻南3丁目",
     "lon": 139.599361,
     "lat": 35.703842,
-    "area": "wards"
-  },
-  {
-    "name": "吉祥寺",
-    "address": "武蔵野市吉祥寺南町",
-    "lon": 139.579765,
-    "lat": 35.703119,
-    "area": "nstama"
-  },
-  {
-    "name": "三鷹",
-    "address": "三鷹市下連雀三丁目46-1",
-    "lon": 139.560325,
-    "lat": 35.702683,
-    "area": "nstama"
+    "area": "w23"
   },
   {
     "name": "武蔵境",
     "address": "武蔵野市境1丁目",
     "lon": 139.543402,
     "lat": 35.702083,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "東小金井",
     "address": "小金井市梶野町5丁目",
     "lon": 139.524837,
     "lat": 35.701643,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "武蔵小金井",
     "address": "小金井市本町6丁目",
     "lon": 139.506483,
     "lat": 35.701337,
-    "area": "nstama"
-  },
-  {
-    "name": "国分寺",
-    "address": "国分寺市本町二丁目1-23",
-    "lon": 139.480841,
-    "lat": 35.700123,
-    "area": "nwtama"
-  },
-  {
-    "name": "西国分寺",
-    "address": "国分寺市西恋ケ窪2丁目",
-    "lon": 139.465994,
-    "lat": 35.699744,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "国立",
     "address": "国立市北1丁目",
     "lon": 139.44634,
     "lat": 35.69923,
-    "area": "nwtama"
-  },
-  {
-    "name": "立川",
-    "address": "立川市曙町二丁目1-1",
-    "lon": 139.413704,
-    "lat": 35.698202,
-    "area": "nwtama"
-  },
-  {
-    "name": "日野",
-    "address": "日野市大坂上1丁目",
-    "lon": 139.39393,
-    "lat": 35.679244,
-    "area": "stama"
-  },
-  {
-    "name": "豊田",
-    "address": "日野市豊田4丁目",
-    "lon": 139.381495,
-    "lat": 35.659502,
-    "area": "stama"
-  },
-  {
-    "name": "八王子",
-    "address": "八王子市旭町1-1",
-    "lon": 139.338998,
-    "lat": 35.655555,
-    "area": "stama"
-  },
-  {
-    "name": "西八王子",
-    "address": "八王子市千人町2丁目",
-    "lon": 139.31264,
-    "lat": 35.656621,
-    "area": "stama"
-  },
-  {
-    "name": "高尾",
-    "address": "八王子市高尾町",
-    "lon": 139.282288,
-    "lat": 35.642026,
-    "area": "stama"
-  },
-  {
-    "name": "三鷹",
-    "address": "三鷹市下連雀三丁目46-1",
-    "lon": 139.560325,
-    "lat": 35.702683,
-    "area": "nstama"
-  },
-  {
-    "name": "吉祥寺",
-    "address": "武蔵野市吉祥寺南町",
-    "lon": 139.579765,
-    "lat": 35.703119,
-    "area": "nstama"
-  },
-  {
-    "name": "西荻窪",
-    "address": "杉並区西荻南3丁目",
-    "lon": 139.599361,
-    "lat": 35.703842,
-    "area": "wards"
-  },
-  {
-    "name": "荻窪",
-    "address": "杉並区上荻1丁目",
-    "lon": 139.620109,
-    "lat": 35.704523,
-    "area": "wards"
-  },
-  {
-    "name": "阿佐ケ谷",
-    "address": "杉並区阿佐谷南三丁目36-2",
-    "lon": 139.635868,
-    "lat": 35.704818,
-    "area": "wards"
-  },
-  {
-    "name": "高円寺",
-    "address": "杉並区高円寺南4丁目",
-    "lon": 139.649664,
-    "lat": 35.705326,
-    "area": "wards"
-  },
-  {
-    "name": "中野",
-    "address": "中野区中野5丁目",
-    "lon": 139.665835,
-    "lat": 35.705765,
-    "area": "wards"
+    "area": "ntama"
   },
   {
     "name": "東中野",
     "address": "中野区東中野4丁目",
     "lon": 139.684436,
     "lat": 35.706529,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大久保",
     "address": "新宿区百人町1丁目",
     "lon": 139.69732,
     "lat": 35.700784,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
-  },
-  {
-    "name": "代々木",
-    "address": "渋谷区代々木一丁目34-1",
-    "lon": 139.702042,
-    "lat": 35.683061,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千駄ケ谷",
     "address": "渋谷区千駄ヶ谷一丁目35-10",
     "lon": 139.711644,
     "lat": 35.681231,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "信濃町",
     "address": "新宿区信濃町",
     "lon": 139.720729,
     "lat": 35.680031,
-    "area": "wards"
-  },
-  {
-    "name": "四ツ谷",
-    "address": "新宿区四谷一丁目",
-    "lon": 139.730644,
-    "lat": 35.686041,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "市ケ谷",
     "address": "千代田区五番町2-1",
     "lon": 139.735583,
     "lat": 35.691,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "飯田橋",
     "address": "千代田区飯田橋四丁目10-2",
     "lon": 139.745143,
     "lat": 35.701835,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "水道橋",
     "address": "千代田区神田三崎町二丁目22-1",
     "lon": 139.754312,
     "lat": 35.702039,
-    "area": "wards"
-  },
-  {
-    "name": "御茶ノ水",
-    "address": "千代田区神田駿河台二丁目6-1",
-    "lon": 139.764955,
-    "lat": 35.699605,
-    "area": "wards"
-  },
-  {
-    "name": "秋葉原",
-    "address": "千代田区外神田一丁目17-6",
-    "lon": 139.773288,
-    "lat": 35.698619,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浅草橋",
     "address": "台東区浅草橋1丁目",
     "lon": 139.784427,
     "lat": 35.697403,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "両国",
     "address": "墨田区横網1丁目",
     "lon": 139.793334,
     "lat": 35.69579,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "錦糸町",
     "address": "墨田区江東橋3丁目",
     "lon": 139.814136,
     "lat": 35.696802,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "亀戸",
     "address": "江東区亀戸5丁目",
     "lon": 139.826262,
     "lat": 35.697345,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "平井",
     "address": "江戸川区平井3丁目",
     "lon": 139.842181,
     "lat": 35.70643,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新小岩",
     "address": "葛飾区新小岩1丁目",
     "lon": 139.857777,
     "lat": 35.716903,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "小岩",
     "address": "江戸川区南小岩7丁目",
     "lon": 139.881755,
     "lat": 35.733207,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新日本橋",
     "address": "中央区日本橋室町4丁目",
     "lon": 139.77323,
     "lat": 35.688687,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "馬喰町",
     "address": "中央区日本橋馬喰町1丁目",
     "lon": 139.78238,
     "lat": 35.693365,
-    "area": "wards"
-  },
-  {
-    "name": "錦糸町",
-    "address": "墨田区江東橋3丁目",
-    "lon": 139.814136,
-    "lat": 35.696802,
-    "area": "wards"
-  },
-  {
-    "name": "新小岩",
-    "address": "葛飾区新小岩1丁目",
-    "lon": 139.857777,
-    "lat": 35.716903,
-    "area": "wards"
-  },
-  {
-    "name": "立川",
-    "address": "立川市曙町二丁目1-1",
-    "lon": 139.413704,
-    "lat": 35.698202,
-    "area": "nwtama"
+    "area": "w23"
   },
   {
     "name": "西立川",
     "address": "立川市富士見町1丁目",
     "lon": 139.393556,
     "lat": 35.703526,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "東中神",
     "address": "昭島市玉川町1丁目",
     "lon": 139.384529,
     "lat": 35.706337,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "中神",
     "address": "昭島市朝日町1丁目",
     "lon": 139.375816,
     "lat": 35.709058,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "昭島",
     "address": "昭島市昭和町2丁目",
     "lon": 139.361564,
     "lat": 35.713305,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "拝島",
     "address": "昭島市松原町4丁目",
     "lon": 139.343468,
     "lat": 35.721278,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "牛浜",
@@ -1050,13 +763,6 @@
     "area": "wtama"
   },
   {
-    "name": "拝島",
-    "address": "昭島市松原町4丁目",
-    "lon": 139.343468,
-    "lat": 35.721278,
-    "area": "nwtama"
-  },
-  {
     "name": "熊川",
     "address": "福生市熊川北",
     "lon": 139.33584,
@@ -1099,13 +805,6 @@
     "area": "wtama"
   },
   {
-    "name": "八王子",
-    "address": "八王子市旭町1-1",
-    "lon": 139.338998,
-    "lat": 35.655555,
-    "area": "stama"
-  },
-  {
     "name": "北八王子",
     "address": "八王子市石川町",
     "lon": 139.363348,
@@ -1118,13 +817,6 @@
     "lon": 139.368481,
     "lat": 35.685799,
     "area": "stama"
-  },
-  {
-    "name": "拝島",
-    "address": "昭島市松原町4丁目",
-    "lon": 139.343468,
-    "lat": 35.721278,
-    "area": "nwtama"
   },
   {
     "name": "東福生",
@@ -1141,1530 +833,1026 @@
     "area": "wtama"
   },
   {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目9-1",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区上野七丁目1-1",
-    "lon": 139.777043,
-    "lat": 35.71379,
-    "area": "wards"
-  },
-  {
     "name": "尾久",
     "address": "北区昭和町1丁目",
     "lon": 139.753846,
     "lat": 35.74683,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "赤羽",
     "address": "北区赤羽1丁目",
     "lon": 139.720928,
     "lat": 35.778026,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区上野七丁目1-1",
-    "lon": 139.777043,
-    "lat": 35.71379,
-    "area": "wards"
-  },
-  {
-    "name": "日暮里",
-    "address": "荒川区西日暮里二丁目",
-    "lon": 139.771287,
-    "lat": 35.727908,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三河島",
     "address": "荒川区西日暮里1丁目",
     "lon": 139.777131,
     "lat": 35.733383,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "南千住",
     "address": "荒川区南千住4丁目",
     "lon": 139.7994,
     "lat": 35.734033,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "北千住",
     "address": "足立区千住旭町",
     "lon": 139.804872,
     "lat": 35.749677,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "綾瀬",
     "address": "足立区綾瀬3丁目",
     "lon": 139.825019,
     "lat": 35.762222,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "亀有",
     "address": "葛飾区亀有3",
     "lon": 139.847573,
     "lat": 35.766527,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "金町",
     "address": "葛飾区金町6丁目",
     "lon": 139.870482,
     "lat": 35.769582,
-    "area": "wards"
-  },
-  {
-    "name": "大崎",
-    "address": "品川区大崎一丁目21-4",
-    "lon": 139.728439,
-    "lat": 35.619772,
-    "area": "wards"
-  },
-  {
-    "name": "恵比寿",
-    "address": "渋谷区恵比寿南一丁目5-5",
-    "lon": 139.71007,
-    "lat": 35.646685,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目1-1",
-    "lon": 139.701238,
-    "lat": 35.658871,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区",
-    "lon": 139.711086,
-    "lat": 35.730256,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "板橋",
     "address": "板橋区板橋1丁目",
     "lon": 139.719507,
     "lat": 35.745435,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "十条",
     "address": "北区上十条1丁目",
     "lon": 139.722233,
     "lat": 35.760321,
-    "area": "wards"
-  },
-  {
-    "name": "赤羽",
-    "address": "北区赤羽1丁目",
-    "lon": 139.720928,
-    "lat": 35.778026,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "北赤羽",
     "address": "北区赤羽北2丁目",
     "lon": 139.70569,
     "lat": 35.787007,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浮間舟渡",
     "address": "北区浮間4丁目",
     "lon": 139.691341,
     "lat": 35.791209,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区上野七丁目1-1",
-    "lon": 139.777043,
-    "lat": 35.71379,
-    "area": "wards"
-  },
-  {
-    "name": "尾久",
-    "address": "北区昭和町1丁目",
-    "lon": 139.753846,
-    "lat": 35.74683,
-    "area": "wards"
-  },
-  {
-    "name": "赤羽",
-    "address": "北区赤羽1丁目",
-    "lon": 139.720928,
-    "lat": 35.778026,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "八丁堀",
     "address": "中央区八丁堀3丁目",
     "lon": 139.777705,
     "lat": 35.674617,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "越中島",
     "address": "江東区越中島2丁目",
     "lon": 139.792713,
     "lat": 35.667946,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "潮見",
     "address": "江東区潮見2丁目",
     "lon": 139.817341,
     "lat": 35.658702,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新木場",
     "address": "江東区新木場一丁目5",
     "lon": 139.827402,
     "lat": 35.646172,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "葛西臨海公園",
     "address": "江戸川区臨海町6丁目",
     "lon": 139.861529,
     "lat": 35.644392,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目1-1",
-    "lon": 139.701238,
-    "lat": 35.658871,
-    "area": "wards"
-  },
-  {
-    "name": "品川",
-    "address": "港区高輪三丁目26-26",
-    "lon": 139.738999,
-    "lat": 35.62876,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "赤羽",
-    "address": "北区赤羽1丁目",
-    "lon": 139.720928,
-    "lat": 35.778026,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東十条",
     "address": "北区東十条3丁目",
     "lon": 139.726858,
     "lat": 35.763803,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "王子",
     "address": "北区王子1丁目",
     "lon": 139.73809,
     "lat": 35.752538,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上中里",
     "address": "北区上中里1丁目",
     "lon": 139.745769,
     "lat": 35.74728,
-    "area": "wards"
-  },
-  {
-    "name": "田端",
-    "address": "北区東田端一丁目17-1",
-    "lon": 139.761229,
-    "lat": 35.737781,
-    "area": "wards"
-  },
-  {
-    "name": "西日暮里",
-    "address": "荒川区西日暮里五丁目22-1",
-    "lon": 139.766857,
-    "lat": 35.731954,
-    "area": "wards"
-  },
-  {
-    "name": "日暮里",
-    "address": "荒川区西日暮里二丁目",
-    "lon": 139.771287,
-    "lat": 35.727908,
-    "area": "wards"
-  },
-  {
-    "name": "鶯谷",
-    "address": "台東区根岸一丁目4-1",
-    "lon": 139.778015,
-    "lat": 35.721484,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区上野七丁目1-1",
-    "lon": 139.777043,
-    "lat": 35.71379,
-    "area": "wards"
-  },
-  {
-    "name": "御徒町",
-    "address": "台東区上野五丁目27",
-    "lon": 139.774727,
-    "lat": 35.707282,
-    "area": "wards"
-  },
-  {
-    "name": "秋葉原",
-    "address": "千代田区外神田一丁目17-6",
-    "lon": 139.773288,
-    "lat": 35.698619,
-    "area": "wards"
-  },
-  {
-    "name": "神田",
-    "address": "千代田区鍛冶町二丁目13-1",
-    "lon": 139.770641,
-    "lat": 35.691173,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "有楽町",
-    "address": "千代田区有楽町二丁目9-17",
-    "lon": 139.763806,
-    "lat": 35.675441,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区新橋二丁目17",
-    "lon": 139.758587,
-    "lat": 35.666195,
-    "area": "wards"
-  },
-  {
-    "name": "浜松町",
-    "address": "港区海岸一丁目3-1",
-    "lon": 139.757135,
-    "lat": 35.655391,
-    "area": "wards"
-  },
-  {
-    "name": "田町",
-    "address": "港区芝五丁目33-36",
-    "lon": 139.747575,
-    "lat": 35.645736,
-    "area": "wards"
-  },
-  {
-    "name": "高輪ゲートウェイ",
-    "address": "港区港南二丁目10-145",
-    "lon": 139.7407,
-    "lat": 35.6355,
-    "area": "wards"
-  },
-  {
-    "name": "品川",
-    "address": "港区高輪三丁目26-26",
-    "lon": 139.738999,
-    "lat": 35.62876,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大井町",
     "address": "品川区大井1丁目",
     "lon": 139.73485,
     "lat": 35.606257,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大森",
     "address": "大田区大森北1丁目",
     "lon": 139.728079,
     "lat": 35.588903,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "蒲田",
     "address": "大田区蒲田5丁目",
     "lon": 139.716032,
     "lat": 35.562517,
-    "area": "wards"
-  },
-  {
-    "name": "赤羽",
-    "address": "北区赤羽1丁目",
-    "lon": 139.720928,
-    "lat": 35.778026,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区南池袋一丁目28-2",
-    "lon": 139.711086,
-    "lat": 35.730256,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目1-1",
-    "lon": 139.701238,
-    "lat": 35.658871,
-    "area": "wards"
-  },
-  {
-    "name": "恵比寿",
-    "address": "渋谷区恵比寿南一丁目5-5",
-    "lon": 139.71007,
-    "lat": 35.646685,
-    "area": "wards"
-  },
-  {
-    "name": "大崎",
-    "address": "品川区大崎一丁目21-4",
-    "lon": 139.728439,
-    "lat": 35.619772,
-    "area": "wards"
-  },
-  {
-    "name": "西大井",
-    "address": "品川区西大井1丁目",
-    "lon": 139.721729,
-    "lat": 35.601616,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目9-1",
-    "lon": 139.766103,
-    "lat": 35.681391,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区上野七丁目1-1",
-    "lon": 139.777043,
-    "lat": 35.71379,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区西池袋一丁目1-21",
-    "lon": 139.710678,
-    "lat": 35.730924,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "北池袋",
     "address": "豊島区池袋本町1-36-6",
     "lon": 139.716749,
     "lat": 35.741283,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下板橋",
     "address": "豊島区池袋本町4-43-11",
     "lon": 139.714785,
     "lat": 35.745721,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大山",
     "address": "板橋区大山町4-1",
     "lon": 139.702589,
     "lat": 35.748398,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中板橋",
     "address": "板橋区弥生町33-1",
     "lon": 139.694628,
     "lat": 35.756214,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "ときわ台",
     "address": "板橋区常盤台1-43-1",
     "lon": 139.689015,
     "lat": 35.758771,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上板橋",
     "address": "板橋区上板橋2-36-7",
     "lon": 139.67641,
     "lat": 35.763596,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東武練馬",
     "address": "板橋区徳丸2-2-14",
     "lon": 139.661964,
     "lat": 35.768698,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下赤塚",
     "address": "板橋区赤塚新町1-23-1",
     "lon": 139.644482,
     "lat": 35.770558,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "成増",
     "address": "板橋区成増2-13-1",
     "lon": 139.632708,
     "lat": 35.777723,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浅草",
     "address": "台東区花川戸一丁目4-1",
     "lon": 139.798214,
     "lat": 35.711883,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "とうきょうスカイツリー",
     "address": "墨田区押上1丁目",
     "lon": 139.809332,
     "lat": 35.71043,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "押上〈スカイツリー前〉",
     "address": "墨田区押上一丁目",
     "lon": 139.812935,
     "lat": 35.710702,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "曳舟",
     "address": "墨田区東向島2丁目",
     "lon": 139.816634,
     "lat": 35.718418,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東向島",
     "address": "墨田区東向島4丁目",
     "lon": 139.819306,
     "lat": 35.724324,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "鐘ヶ淵",
     "address": "墨田区墨田5丁目",
     "lon": 139.820344,
     "lat": 35.733712,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "堀切",
     "address": "足立区千住曙町",
     "lon": 139.817727,
     "lat": 35.742977,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "牛田",
     "address": "足立区千住曙町",
     "lon": 139.811816,
     "lat": 35.744555,
-    "area": "wards"
-  },
-  {
-    "name": "北千住",
-    "address": "足立区千住旭町",
-    "lon": 139.805564,
-    "lat": 35.749891,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "小菅",
     "address": "足立区足立2丁目",
     "lon": 139.812935,
     "lat": 35.759039,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "五反野",
     "address": "足立区足立3丁目",
     "lon": 139.809643,
     "lat": 35.765852,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "梅島",
     "address": "足立区梅田7丁目",
     "lon": 139.797916,
     "lat": 35.772437,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "西新井",
     "address": "足立区西新井栄町2丁目",
     "lon": 139.790372,
     "lat": 35.777323,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "竹ノ塚",
     "address": "足立区竹の塚6丁目",
     "lon": 139.790788,
     "lat": 35.794368,
-    "area": "wards"
-  },
-  {
-    "name": "曳舟",
-    "address": "墨田区東向島2丁目",
-    "lon": 139.816634,
-    "lat": 35.718418,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "小村井",
     "address": "墨田区文花2-20-1",
     "lon": 139.827595,
     "lat": 35.710316,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東あずま",
     "address": "墨田区立花4-23-8",
     "lon": 139.831883,
     "lat": 35.707067,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "亀戸水神",
     "address": "江東区亀戸8-5-1",
     "lon": 139.833422,
     "lat": 35.699976,
-    "area": "wards"
-  },
-  {
-    "name": "亀戸",
-    "address": "江東区亀戸5丁目",
-    "lon": 139.826791,
-    "lat": 35.697708,
-    "area": "wards"
-  },
-  {
-    "name": "西新井",
-    "address": "足立区西新井栄町2丁目",
-    "lon": 139.790372,
-    "lat": 35.777323,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "大師前",
     "address": "足立区西新井1-3-1",
     "lon": 139.781647,
     "lat": 35.778989,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区南池袋一丁目28-2",
-    "lon": 139.711461,
-    "lat": 35.72913,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "椎名町",
     "address": "豊島区長崎1-1-22",
     "lon": 139.694363,
     "lat": 35.726572,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東長崎",
     "address": "豊島区長崎5-1-1",
     "lon": 139.683294,
     "lat": 35.73003,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "江古田",
     "address": "練馬区旭丘1-78-7",
     "lon": 139.672814,
     "lat": 35.737557,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "桜台",
     "address": "練馬区桜台1-5-1",
     "lon": 139.662602,
     "lat": 35.738797,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "練馬",
     "address": "練馬区練馬1-3-5",
     "lon": 139.654368,
     "lat": 35.737893,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中村橋",
     "address": "練馬区中村北4-2-1",
     "lon": 139.637456,
     "lat": 35.736767,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "富士見台",
     "address": "練馬区貫井3-7-4",
     "lon": 139.62969,
     "lat": 35.735867,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "練馬高野台",
     "address": "練馬区高野台1-7-27",
     "lon": 139.616749,
     "lat": 35.740622,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "石神井公園",
     "address": "練馬区石神井町3-23-10",
     "lon": 139.606981,
     "lat": 35.743563,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大泉学園",
     "address": "練馬区東大泉1-29-7",
     "lon": 139.586732,
     "lat": 35.749406,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "保谷",
     "address": "西東京市東町3-14-30",
     "lon": 139.567753,
     "lat": 35.748222,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "ひばりヶ丘",
     "address": "西東京市住吉町三丁目",
     "lon": 139.545852,
     "lat": 35.751485,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "東久留米",
     "address": "東久留米市東本町1-8",
     "lon": 139.533739,
     "lat": 35.760445,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "清瀬",
     "address": "清瀬市元町1-2-4",
     "lon": 139.519917,
     "lat": 35.772221,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "秋津",
     "address": "東村山市秋津町5-7-8",
     "lon": 139.496539,
     "lat": 35.778614,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "小竹向原",
     "address": "練馬区小竹町二丁目16-15",
     "lon": 139.678572,
     "lat": 35.743803,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新桜台",
     "address": "練馬区桜台1-28-11",
     "lon": 139.6683,
     "lat": 35.74077,
-    "area": "wards"
-  },
-  {
-    "name": "練馬",
-    "address": "練馬区練馬1-3-5",
-    "lon": 139.654368,
-    "lat": 35.737893,
-    "area": "wards"
-  },
-  {
-    "name": "練馬",
-    "address": "練馬区練馬1-3-5",
-    "lon": 139.654368,
-    "lat": 35.737893,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "豊島園",
     "address": "練馬区練馬4-16-5",
     "lon": 139.647979,
     "lat": 35.742054,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "多摩湖",
     "address": "東村山市多摩湖町3-15-18",
     "lon": 139.442747,
     "lat": 35.765881,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "西武新宿",
     "address": "新宿区歌舞伎町1-30-1",
     "lon": 139.7,
     "lat": 35.696254,
-    "area": "wards"
-  },
-  {
-    "name": "高田馬場",
-    "address": "新宿区高田馬場一丁目35-2",
-    "lon": 139.703715,
-    "lat": 35.712677,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下落合",
     "address": "新宿区下落合1-16-1",
     "lon": 139.695391,
     "lat": 35.715846,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中井",
     "address": "新宿区中落合1-19-1",
     "lon": 139.686967,
     "lat": 35.715106,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新井薬師前",
     "address": "中野区上高田5-43-20",
     "lon": 139.672582,
     "lat": 35.715778,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "沼袋",
     "address": "中野区沼袋1-35-1",
     "lon": 139.663841,
     "lat": 35.719458,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "野方",
     "address": "中野区野方6-3-3",
     "lon": 139.652733,
     "lat": 35.719658,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "都立家政",
     "address": "中野区鷺宮1-16-1",
     "lon": 139.644839,
     "lat": 35.722313,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "鷺ノ宮",
     "address": "中野区鷺宮3-15-1",
     "lon": 139.63892,
     "lat": 35.722605,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下井草",
     "address": "杉並区下井草2-44-10",
     "lon": 139.624688,
     "lat": 35.723852,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "井荻",
     "address": "杉並区下井草5-23-15",
     "lon": 139.615303,
     "lat": 35.72469,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上井草",
     "address": "杉並区上井草3-32-1",
     "lon": 139.602937,
     "lat": 35.725326,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上石神井",
     "address": "練馬区上石神井1-2-45",
     "lon": 139.592266,
     "lat": 35.726189,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "武蔵関",
     "address": "練馬区関町北2-29-1",
     "lon": 139.576417,
     "lat": 35.7276,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東伏見",
     "address": "西東京市東伏見2-5-1",
     "lon": 139.563529,
     "lat": 35.728761,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "西武柳沢",
     "address": "西東京市保谷町3-11-24",
     "lon": 139.552477,
     "lat": 35.728621,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "田無",
     "address": "西東京市田無町4-1-1",
     "lon": 139.539259,
     "lat": 35.727307,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "花小金井",
     "address": "小平市花小金井1-10-5",
     "lon": 139.513228,
     "lat": 35.726129,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "小平",
     "address": "小平市美園町1-34-1",
     "lon": 139.488491,
     "lat": 35.736963,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "久米川",
     "address": "東村山市栄町2-3-1",
     "lon": 139.472653,
     "lat": 35.749575,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "東村山",
     "address": "東村山市本町2-3-32",
     "lon": 139.465839,
     "lat": 35.76006,
-    "area": "nntama"
-  },
-  {
-    "name": "小平",
-    "address": "小平市美園町1-34-1",
-    "lon": 139.488491,
-    "lat": 35.736963,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "萩山",
     "address": "東村山市萩山町2-1-1",
     "lon": 139.476903,
     "lat": 35.740759,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "小川",
     "address": "小平市小川東町1-20-1",
     "lon": 139.463493,
     "lat": 35.737573,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "東大和市",
     "address": "東大和市桜が丘1-1415-1",
     "lon": 139.434249,
     "lat": 35.732829,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "玉川上水",
     "address": "立川市幸町6-36-1",
     "lon": 139.418435,
     "lat": 35.731751,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "武蔵砂川",
     "address": "立川市上砂町5-44-4",
     "lon": 139.392319,
     "lat": 35.728876,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "西武立川",
     "address": "立川市西砂町1-21-2",
     "lon": 139.370124,
     "lat": 35.7262,
-    "area": "nwtama"
-  },
-  {
-    "name": "拝島",
-    "address": "昭島市松原町4丁目",
-    "lon": 139.343468,
-    "lat": 35.721278,
-    "area": "nwtama"
-  },
-  {
-    "name": "東村山",
-    "address": "東村山市本町2-3-32",
-    "lon": 139.465839,
-    "lat": 35.76006,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "西武園",
     "address": "東村山市多摩湖町4-29-1",
     "lon": 139.448904,
     "lat": 35.767684,
-    "area": "nntama"
-  },
-  {
-    "name": "国分寺",
-    "address": "国分寺市本町二丁目1-23",
-    "lon": 139.480841,
-    "lat": 35.700123,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "恋ヶ窪",
     "address": "国分寺市戸倉一丁目1-4",
     "lon": 139.463944,
     "lat": 35.711385,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "鷹の台",
     "address": "小平市たかの台45-4",
     "lon": 139.461155,
     "lat": 35.723097,
-    "area": "nntama"
-  },
-  {
-    "name": "小川",
-    "address": "小平市小川東町1-20-1",
-    "lon": 139.463493,
-    "lat": 35.737573,
-    "area": "nntama"
-  },
-  {
-    "name": "東村山",
-    "address": "東村山市本町2-3-32",
-    "lon": 139.465839,
-    "lat": 35.76006,
-    "area": "nntama"
-  },
-  {
-    "name": "国分寺",
-    "address": "国分寺市本町二丁目1-23",
-    "lon": 139.479547,
-    "lat": 35.700836,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "一橋学園",
     "address": "小平市学園西町2-1-1",
     "lon": 139.480039,
     "lat": 35.72217,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "青梅街道",
     "address": "小平市小川町2-1846",
     "lon": 139.476628,
     "lat": 35.73098,
-    "area": "nntama"
-  },
-  {
-    "name": "萩山",
-    "address": "東村山市萩山町2-1-1",
-    "lon": 139.476903,
-    "lat": 35.740759,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "八坂",
     "address": "東村山市栄町3-18-1",
     "lon": 139.467676,
     "lat": 35.744925,
-    "area": "nntama"
+    "area": "ntama"
   },
   {
     "name": "武蔵大和",
     "address": "東村山市廻田町3-9-19",
     "lon": 139.444008,
     "lat": 35.756427,
-    "area": "nntama"
-  },
-  {
-    "name": "多摩湖",
-    "address": "東村山市多摩湖町3-15-18",
-    "lon": 139.442747,
-    "lat": 35.765881,
-    "area": "nntama"
-  },
-  {
-    "name": "武蔵境",
-    "address": "武蔵野市境1丁目",
-    "lon": 139.543402,
-    "lat": 35.702083,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "新小金井",
     "address": "小金井市東町4-24-1",
     "lon": 139.526603,
     "lat": 35.695908,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "多磨",
     "address": "府中市紅葉丘3-42-2",
     "lon": 139.51713,
     "lat": 35.676821,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "白糸台",
     "address": "府中市白糸台2-71-6",
     "lon": 139.509862,
     "lat": 35.666517,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "競艇場前",
     "address": "府中市小柳町4-10-11",
     "lon": 139.499721,
     "lat": 35.656232,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "是政",
     "address": "府中市是政5-8-2",
     "lon": 139.488592,
     "lat": 35.656242,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "京成上野",
     "address": "台東区上野公園1-60",
     "lon": 139.773571,
     "lat": 35.711232,
-    "area": "wards"
-  },
-  {
-    "name": "日暮里",
-    "address": "荒川区西日暮里二丁目",
-    "lon": 139.771287,
-    "lat": 35.727908,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新三河島",
     "address": "荒川区西日暮里6-2-1",
     "lon": 139.773834,
     "lat": 35.73714,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "町屋",
     "address": "荒川区町屋1丁目",
     "lon": 139.781499,
     "lat": 35.742354,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "千住大橋",
     "address": "足立区千住橋戸町11-1",
     "lon": 139.796934,
     "lat": 35.74243,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成関屋",
     "address": "足立区千住曙町2-2",
     "lon": 139.81183,
     "lat": 35.744008,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "堀切菖蒲園",
     "address": "葛飾区堀切5-1-1",
     "lon": 139.827545,
     "lat": 35.747649,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "お花茶屋",
     "address": "葛飾区宝町2-37-1",
     "lon": 139.83988,
     "lat": 35.747585,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "青砥",
     "address": "葛飾区青戸三丁目36番1号",
     "lon": 139.856292,
     "lat": 35.745883,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成高砂",
     "address": "葛飾区高砂五丁目28-1",
     "lon": 139.866875,
     "lat": 35.750932,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成小岩",
     "address": "江戸川区北小岩2-10-9",
     "lon": 139.88371,
     "lat": 35.742158,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "江戸川",
     "address": "江戸川区北小岩3-24-15",
     "lon": 139.896226,
     "lat": 35.737723,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "押上（スカイツリー前）",
     "address": "墨田区押上一丁目",
     "lon": 139.812935,
     "lat": 35.710702,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成曳舟",
     "address": "墨田区京島1-39-1",
     "lon": 139.820012,
     "lat": 35.718441,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "八広",
     "address": "墨田区八広6-25-20",
     "lon": 139.828738,
     "lat": 35.727687,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "四ツ木",
     "address": "葛飾区四つ木1-1-1",
     "lon": 139.834918,
     "lat": 35.731962,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成立石",
     "address": "葛飾区立石4-24-1",
     "lon": 139.848558,
     "lat": 35.738281,
-    "area": "wards"
-  },
-  {
-    "name": "青砥",
-    "address": "葛飾区青戸三丁目36番1号",
-    "lon": 139.856292,
-    "lat": 35.745883,
-    "area": "wards"
-  },
-  {
-    "name": "京成高砂",
-    "address": "葛飾区高砂五丁目28-1",
-    "lon": 139.866875,
-    "lat": 35.750932,
-    "area": "wards"
-  },
-  {
-    "name": "京成高砂",
-    "address": "葛飾区高砂五丁目28-1",
-    "lon": 139.866875,
-    "lat": 35.750932,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "柴又",
     "address": "葛飾区柴又4-8-14",
     "lon": 139.875188,
     "lat": 35.756323,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "京成金町",
     "address": "葛飾区金町5-37-9",
     "lon": 139.870387,
     "lat": 35.768471,
-    "area": "wards"
-  },
-  {
-    "name": "京成上野",
-    "address": "台東区上野公園1-60",
-    "lon": 139.773571,
-    "lat": 35.711232,
-    "area": "wards"
-  },
-  {
-    "name": "日暮里",
-    "address": "荒川区西日暮里二丁目19-1",
-    "lon": 139.771287,
-    "lat": 35.727908,
-    "area": "wards"
-  },
-  {
-    "name": "青砥",
-    "address": "葛飾区青戸三丁目36番1号",
-    "lon": 139.856292,
-    "lat": 35.745883,
-    "area": "wards"
-  },
-  {
-    "name": "京成高砂",
-    "address": "葛飾区高砂五丁目28-1",
-    "lon": 139.866875,
-    "lat": 35.750932,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区西新宿一丁目1-4",
-    "lon": 139.699187,
-    "lat": 35.690163,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "笹塚",
     "address": "渋谷区笹塚1-56-7",
     "lon": 139.667251,
     "lat": 35.673758,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "代田橋",
     "address": "世田谷区大原2-18-9",
     "lon": 139.659413,
     "lat": 35.671092,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "明大前",
     "address": "世田谷区松原2-45-1",
     "lon": 139.650352,
     "lat": 35.668758,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下高井戸",
     "address": "世田谷区松原3-29-17",
     "lon": 139.641372,
     "lat": 35.66615,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "桜上水",
     "address": "世田谷区桜上水5-29-52",
     "lon": 139.63129,
     "lat": 35.66768,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上北沢",
     "address": "世田谷区上北沢4-14-3",
     "lon": 139.62329,
     "lat": 35.668857,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "八幡山",
     "address": "杉並区上高井戸1-1-11",
     "lon": 139.614927,
     "lat": 35.669982,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "芦花公園",
     "address": "世田谷区南烏山3-1-16",
     "lon": 139.608247,
     "lat": 35.670479,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千歳烏山",
     "address": "世田谷区南烏山6-1-1",
     "lon": 139.60067,
     "lat": 35.667921,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "仙川",
     "address": "調布市仙川町1-43",
     "lon": 139.584908,
     "lat": 35.662257,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "つつじヶ丘",
     "address": "調布市西つつじヶ丘三丁目35-1",
     "lon": 139.575103,
     "lat": 35.657936,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "柴崎",
     "address": "調布市菊野台2-67-11",
     "lon": 139.56658,
     "lat": 35.653997,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "国領",
     "address": "調布市国領町3-18-1",
     "lon": 139.558036,
     "lat": 35.650087,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "布田",
     "address": "調布市国領町5-67-1",
     "lon": 139.551557,
     "lat": 35.649904,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "調布",
     "address": "調布市布田4-32-1",
     "lon": 139.543988,
     "lat": 35.652181,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "西調布",
     "address": "調布市上石原1-25-17",
     "lon": 139.529822,
     "lat": 35.657169,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "飛田給",
     "address": "調布市飛田給1-42-11",
     "lon": 139.523666,
     "lat": 35.660121,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "武蔵野台",
     "address": "府中市白糸台4-18-4",
     "lon": 139.511289,
     "lat": 35.664159,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "多磨霊園",
     "address": "府中市清水が丘3-26-11",
     "lon": 139.502615,
     "lat": 35.666197,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "東府中",
     "address": "府中市清水が丘1-8-3",
     "lon": 139.495257,
     "lat": 35.668766,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "府中",
     "address": "府中市宮町1-1-10",
     "lon": 139.4799,
     "lat": 35.672245,
-    "area": "nstama"
-  },
-  {
-    "name": "分倍河原",
-    "address": "府中市片町2丁目",
-    "lon": 139.468798,
-    "lat": 35.668493,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "中河原",
     "address": "府中市住吉町2-1-16",
     "lon": 139.457602,
     "lat": 35.659549,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "聖蹟桜ヶ丘",
@@ -2723,18 +1911,11 @@
     "area": "stama"
   },
   {
-    "name": "調布",
-    "address": "調布市布田4-32-1",
-    "lon": 139.543988,
-    "lat": 35.652181,
-    "area": "nstama"
-  },
-  {
     "name": "京王多摩川",
     "address": "調布市多摩川4-40-1",
     "lon": 139.536606,
     "lat": 35.644499,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "京王よみうりランド",
@@ -2786,13 +1967,6 @@
     "area": "stama"
   },
   {
-    "name": "北野",
-    "address": "八王子市打越町335-1",
-    "lon": 139.354489,
-    "lat": 35.644479,
-    "area": "stama"
-  },
-  {
     "name": "京王片倉",
     "address": "八王子市片倉町34-9",
     "lon": 139.337035,
@@ -2821,13 +1995,6 @@
     "area": "stama"
   },
   {
-    "name": "高尾",
-    "address": "八王子市高尾町",
-    "lon": 139.281551,
-    "lat": 35.641645,
-    "area": "stama"
-  },
-  {
     "name": "高尾山口",
     "address": "八王子市高尾町2241",
     "lon": 139.269856,
@@ -2835,25 +2002,11 @@
     "area": "stama"
   },
   {
-    "name": "東府中",
-    "address": "府中市清水が丘1-8-3",
-    "lon": 139.495257,
-    "lat": 35.668766,
-    "area": "nstama"
-  },
-  {
     "name": "府中競馬正門前",
     "address": "府中市八幡町1-18",
     "lon": 139.485019,
     "lat": 35.668288,
-    "area": "nstama"
-  },
-  {
-    "name": "高幡不動",
-    "address": "日野市高幡139",
-    "lon": 139.412953,
-    "lat": 35.662361,
-    "area": "stama"
+    "area": "ntama"
   },
   {
     "name": "多摩動物公園",
@@ -2863,270 +2016,228 @@
     "area": "stama"
   },
   {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目4-1",
-    "lon": 139.700872,
-    "lat": 35.6587,
-    "area": "wards"
-  },
-  {
     "name": "神泉",
     "address": "渋谷区神泉町4-6",
     "lon": 139.693579,
     "lat": 35.657244,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "駒場東大前",
     "address": "目黒区駒場3-9-1",
     "lon": 139.684308,
     "lat": 35.65868,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "池ノ上",
     "address": "世田谷区代沢2-43-8",
     "lon": 139.67344,
     "lat": 35.660402,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下北沢",
     "address": "世田谷区北沢2丁目",
     "lon": 139.66691,
     "lat": 35.661539,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新代田",
     "address": "世田谷区代田5-30-18",
     "lon": 139.660524,
     "lat": 35.662593,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東松原",
     "address": "世田谷区松原5-2-6",
     "lon": 139.655535,
     "lat": 35.662634,
-    "area": "wards"
-  },
-  {
-    "name": "明大前",
-    "address": "世田谷区松原2-45-1",
-    "lon": 139.650352,
-    "lat": 35.668758,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "永福町",
     "address": "杉並区永福2-60-31",
     "lon": 139.642733,
     "lat": 35.67629,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西永福",
     "address": "杉並区永福3-36-1",
     "lon": 139.634936,
     "lat": 35.678918,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浜田山",
     "address": "杉並区浜田山3-31-2",
     "lon": 139.627528,
     "lat": 35.681603,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高井戸",
     "address": "杉並区高井戸西2-1-26",
     "lon": 139.615115,
     "lat": 35.683253,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "富士見ヶ丘",
     "address": "杉並区久我山五丁目1番25号",
     "lon": 139.607072,
     "lat": 35.684805,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "久我山",
     "address": "杉並区久我山4-1-11",
     "lon": 139.599211,
     "lat": 35.688138,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三鷹台",
     "address": "三鷹市井の頭1-32-1",
     "lon": 139.589298,
     "lat": 35.692046,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "井の頭公園",
     "address": "三鷹市井の頭3-35-12",
     "lon": 139.583112,
     "lat": 35.697304,
-    "area": "nstama"
-  },
-  {
-    "name": "吉祥寺",
-    "address": "武蔵野市吉祥寺南町",
-    "lon": 139.580306,
-    "lat": 35.702291,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "新線新宿",
     "address": "新宿区西新宿一丁目18",
     "lon": 139.698812,
     "lat": 35.68869,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "初台",
     "address": "渋谷区初台1-53-7",
     "lon": 139.686354,
     "lat": 35.68123,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "幡ヶ谷",
     "address": "渋谷区幡ヶ谷一丁目",
     "lon": 139.676183,
     "lat": 35.677061,
-    "area": "wards"
-  },
-  {
-    "name": "笹塚",
-    "address": "渋谷区笹塚1-56-7",
-    "lon": 139.667251,
-    "lat": 35.673758,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区西新宿一丁目1-3",
-    "lon": 139.699574,
-    "lat": 35.691435,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "南新宿",
     "address": "渋谷区代々木2丁目",
     "lon": 139.69867,
     "lat": 35.683483,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "参宮橋",
     "address": "渋谷区代々木4丁目",
     "lon": 139.693568,
     "lat": 35.678586,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "代々木八幡",
     "address": "渋谷区代々木5丁目",
     "lon": 139.688913,
     "lat": 35.669715,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "代々木上原",
     "address": "渋谷区西原3丁目",
     "lon": 139.680153,
     "lat": 35.669159,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東北沢",
     "address": "世田谷区北沢3丁目",
     "lon": 139.673014,
     "lat": 35.665379,
-    "area": "wards"
-  },
-  {
-    "name": "下北沢",
-    "address": "世田谷区北沢2丁目",
-    "lon": 139.667516,
-    "lat": 35.661655,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "世田谷代田",
     "address": "世田谷区代田2丁目",
     "lon": 139.661557,
     "lat": 35.65834,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "梅ヶ丘",
     "address": "世田谷区梅丘",
     "lon": 139.653628,
     "lat": 35.656024,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "豪徳寺",
     "address": "世田谷区豪徳寺1丁目",
     "lon": 139.647381,
     "lat": 35.653807,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "経堂",
     "address": "世田谷区経堂1丁目",
     "lon": 139.635993,
     "lat": 35.650991,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千歳船橋",
     "address": "世田谷区船橋1丁目",
     "lon": 139.624544,
     "lat": 35.647616,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "祖師ヶ谷大蔵",
     "address": "世田谷区祖師谷1丁目",
     "lon": 139.609659,
     "lat": 35.643236,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "成城学園前",
     "address": "世田谷区成城6丁目",
     "lon": 139.598958,
     "lat": 35.640114,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "喜多見",
     "address": "世田谷区喜多見9丁目",
     "lon": 139.587445,
     "lat": 35.636697,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "狛江",
     "address": "狛江市東和泉1丁目",
     "lon": 139.577127,
     "lat": 35.632001,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "和泉多摩川",
     "address": "狛江市東和泉4丁目",
     "lon": 139.573695,
     "lat": 35.627349,
-    "area": "nstama"
+    "area": "ntama"
   },
   {
     "name": "鶴川",
@@ -3140,13 +2251,6 @@
     "address": "町田市玉川学園2丁目",
     "lon": 139.463388,
     "lat": 35.563486,
-    "area": "stama"
-  },
-  {
-    "name": "町田",
-    "address": "町田市原町田1丁目",
-    "lon": 139.445236,
-    "lat": 35.544222,
     "area": "stama"
   },
   {
@@ -3171,179 +2275,144 @@
     "area": "stama"
   },
   {
-    "name": "渋谷",
-    "address": "渋谷区渋谷二丁目24-1",
-    "lon": 139.702417,
-    "lat": 35.659545,
-    "area": "wards"
-  },
-  {
     "name": "代官山",
     "address": "渋谷区代官山町19-4",
     "lon": 139.703284,
     "lat": 35.648193,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中目黒",
     "address": "目黒区上目黒3-4-1",
     "lon": 139.698621,
     "lat": 35.643854,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "祐天寺",
     "address": "目黒区祐天寺2-13-3",
     "lon": 139.690758,
     "lat": 35.637163,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "学芸大学",
     "address": "目黒区鷹番3-2-1",
     "lon": 139.68522,
     "lat": 35.628786,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "都立大学",
     "address": "目黒区中根1-5-1",
     "lon": 139.676393,
     "lat": 35.617835,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "自由が丘",
     "address": "目黒区自由が丘1-30-1",
     "lon": 139.668664,
     "lat": 35.607224,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "田園調布",
     "address": "大田区田園調布3-25-18",
     "lon": 139.667356,
     "lat": 35.596815,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "多摩川",
     "address": "大田区田園調布1-53-8",
     "lon": 139.668723,
     "lat": 35.589591,
-    "area": "wards"
-  },
-  {
-    "name": "目黒",
-    "address": "品川区上大崎四丁目2-1",
-    "lon": 139.7155,
-    "lat": 35.633272,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "不動前",
     "address": "品川区西五反田5-12-1",
     "lon": 139.71469,
     "lat": 35.626526,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "武蔵小山",
     "address": "品川区小山3-4-8",
     "lon": 139.704524,
     "lat": 35.620538,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西小山",
     "address": "品川区小山6-3-10",
     "lon": 139.698694,
     "lat": 35.615455,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "洗足",
     "address": "目黒区洗足2-21-1",
     "lon": 139.694367,
     "lat": 35.61043,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大岡山",
     "address": "大田区北千束3-27-1",
     "lon": 139.685909,
     "lat": 35.607456,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "奥沢",
     "address": "世田谷区奥沢3-47-17",
     "lon": 139.672355,
     "lat": 35.603947,
-    "area": "wards"
-  },
-  {
-    "name": "田園調布",
-    "address": "大田区田園調布3-25-18",
-    "lon": 139.667356,
-    "lat": 35.596815,
-    "area": "wards"
-  },
-  {
-    "name": "多摩川",
-    "address": "大田区田園調布1-53-8",
-    "lon": 139.668723,
-    "lat": 35.589591,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂二丁目1-1",
-    "lon": 139.702148,
-    "lat": 35.65802,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "池尻大橋",
     "address": "世田谷区池尻3-2",
     "lon": 139.684319,
     "lat": 35.650603,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三軒茶屋",
     "address": "世田谷区太子堂4-21-1",
     "lon": 139.670156,
     "lat": 35.643716,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "駒沢大学",
     "address": "世田谷区上馬4-3",
     "lon": 139.661702,
     "lat": 35.633471,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "桜新町",
     "address": "世田谷区桜新町2-8",
     "lon": 139.644779,
     "lat": 35.631666,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "用賀",
     "address": "世田谷区用賀2-39",
     "lon": 139.633928,
     "lat": 35.626436,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "二子玉川",
     "address": "世田谷区玉川2-22-13",
     "lon": 139.626685,
     "lat": 35.611788,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "つくし野",
@@ -3367,2867 +2436,1845 @@
     "area": "stama"
   },
   {
-    "name": "大井町",
-    "address": "品川区大井1丁目",
-    "lon": 139.735025,
-    "lat": 35.607535,
-    "area": "wards"
-  },
-  {
     "name": "下神明",
     "address": "品川区西品川1-29-6",
     "lon": 139.726256,
     "lat": 35.608704,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "戸越公園",
     "address": "品川区戸越5-10-15",
     "lon": 139.718159,
     "lat": 35.608856,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中延",
     "address": "品川区中延4-5-5",
     "lon": 139.712526,
     "lat": 35.60571,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "荏原町",
     "address": "品川区中延5-2-1",
     "lon": 139.707571,
     "lat": 35.60382,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "旗の台",
     "address": "品川区旗の台2-13-1",
     "lon": 139.702286,
     "lat": 35.604923,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "北千束",
     "address": "大田区北千束2-16-1",
     "lon": 139.693303,
     "lat": 35.606311,
-    "area": "wards"
-  },
-  {
-    "name": "大岡山",
-    "address": "大田区北千束3-27-1",
-    "lon": 139.685909,
-    "lat": 35.607456,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "緑が丘",
     "address": "目黒区緑が丘3-1-12",
     "lon": 139.679482,
     "lat": 35.60638,
-    "area": "wards"
-  },
-  {
-    "name": "自由が丘",
-    "address": "目黒区自由が丘1-30-1",
-    "lon": 139.668664,
-    "lat": 35.607224,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "九品仏",
     "address": "世田谷区奥沢7-20-1",
     "lon": 139.660992,
     "lat": 35.60538,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "尾山台",
     "address": "世田谷区等々力5-5-7",
     "lon": 139.653862,
     "lat": 35.606971,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "等々力",
     "address": "世田谷区等々力3-1-1",
     "lon": 139.647938,
     "lat": 35.608369,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上野毛",
     "address": "世田谷区上野毛1-26-6",
     "lon": 139.638917,
     "lat": 35.611957,
-    "area": "wards"
-  },
-  {
-    "name": "二子玉川",
-    "address": "世田谷区玉川2-22-13",
-    "lon": 139.626685,
-    "lat": 35.611788,
-    "area": "wards"
-  },
-  {
-    "name": "五反田",
-    "address": "品川区東五反田二丁目1-1",
-    "lon": 139.724175,
-    "lat": 35.625262,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大崎広小路",
     "address": "品川区大崎4-1-1",
     "lon": 139.722339,
     "lat": 35.622244,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "戸越銀座",
     "address": "品川区平塚2-16-1",
     "lon": 139.714862,
     "lat": 35.615928,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "荏原中延",
     "address": "品川区中延2-8-1",
     "lon": 139.712196,
     "lat": 35.610056,
-    "area": "wards"
-  },
-  {
-    "name": "旗の台",
-    "address": "品川区旗の台2-13-1",
-    "lon": 139.702286,
-    "lat": 35.604923,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "長原",
     "address": "大田区上池台1-10-10",
     "lon": 139.697881,
     "lat": 35.60219,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "洗足池",
     "address": "大田区東雪谷1-1-6",
     "lon": 139.690896,
     "lat": 35.599648,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "石川台",
     "address": "大田区東雪谷2-23-1",
     "lon": 139.685063,
     "lat": 35.596888,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "雪が谷大塚",
     "address": "大田区南雪谷2-2-16",
     "lon": 139.681083,
     "lat": 35.592038,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "御嶽山",
     "address": "大田区北嶺町32-17",
     "lon": 139.682473,
     "lat": 35.585236,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "久が原",
     "address": "大田区南久が原2-6-10",
     "lon": 139.685678,
     "lat": 35.579499,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千鳥町",
     "address": "大田区千鳥1-20-1",
     "lon": 139.69142,
     "lat": 35.572983,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "池上",
     "address": "大田区池上6-3-10",
     "lon": 139.702822,
     "lat": 35.572025,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "蓮沼",
     "address": "大田区西蒲田7-17-1",
     "lon": 139.708544,
     "lat": 35.564173,
-    "area": "wards"
-  },
-  {
-    "name": "蒲田",
-    "address": "大田区蒲田5丁目",
-    "lon": 139.714626,
-    "lat": 35.561767,
-    "area": "wards"
-  },
-  {
-    "name": "多摩川",
-    "address": "大田区田園調布1-53-8",
-    "lon": 139.668723,
-    "lat": 35.589591,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "沼部",
     "address": "大田区田園調布本町28-1",
     "lon": 139.67326,
     "lat": 35.582526,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "鵜の木",
     "address": "大田区鵜の木2-4-1",
     "lon": 139.680554,
     "lat": 35.575452,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "下丸子",
     "address": "大田区下丸子3-7-1",
     "lon": 139.685576,
     "lat": 35.571397,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "武蔵新田",
     "address": "大田区矢口1-18-1",
     "lon": 139.692506,
     "lat": 35.567806,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "矢口渡",
     "address": "大田区多摩川1-20-15",
     "lon": 139.700389,
     "lat": 35.562462,
-    "area": "wards"
-  },
-  {
-    "name": "蒲田",
-    "address": "大田区蒲田5丁目",
-    "lon": 139.714626,
-    "lat": 35.561767,
-    "area": "wards"
-  },
-  {
-    "name": "三軒茶屋",
-    "address": "世田谷区太子堂4-21-1",
-    "lon": 139.670156,
-    "lat": 35.643716,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西太子堂",
     "address": "世田谷区太子堂4-10-3",
     "lon": 139.666382,
     "lat": 35.644545,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "若林",
     "address": "世田谷区若林4-3-15",
     "lon": 139.659911,
     "lat": 35.645933,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "松陰神社前",
     "address": "世田谷区若林4-21-16",
     "lon": 139.655211,
     "lat": 35.643947,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "世田谷",
     "address": "世田谷区世田谷4-9-6",
     "lon": 139.650945,
     "lat": 35.643564,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上町",
     "address": "世田谷区世田谷3-4-3",
     "lon": 139.646276,
     "lat": 35.643656,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "宮の坂",
     "address": "世田谷区宮坂1-24-7",
     "lon": 139.64494,
     "lat": 35.647508,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "山下",
     "address": "世田谷区豪徳寺1-44-5",
     "lon": 139.646509,
     "lat": 35.653844,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "松原",
     "address": "世田谷区松原4-10-8",
     "lon": 139.642,
     "lat": 35.660048,
-    "area": "wards"
-  },
-  {
-    "name": "下高井戸",
-    "address": "世田谷区松原3-29-17",
-    "lon": 139.641372,
-    "lat": 35.66615,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "泉岳寺",
     "address": "港区高輪2-16-34",
     "lon": 139.74002,
     "lat": 35.638692,
-    "area": "wards"
-  },
-  {
-    "name": "品川",
-    "address": "港区高輪三丁目26-26",
-    "lon": 139.73809,
-    "lat": 35.628284,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "北品川",
     "address": "品川区北品川1-1-4",
     "lon": 139.739191,
     "lat": 35.622458,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新馬場",
     "address": "品川区北品川2-18-1",
     "lon": 139.741366,
     "lat": 35.61762,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "青物横丁",
     "address": "品川区南品川3-1-20",
     "lon": 139.742958,
     "lat": 35.609351,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "鮫洲",
     "address": "品川区東大井1-2-20",
     "lon": 139.742227,
     "lat": 35.604977,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "立会川",
     "address": "品川区東大井2-23-1",
     "lon": 139.738886,
     "lat": 35.598489,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大森海岸",
     "address": "品川区南大井3-32-1",
     "lon": 139.73544,
     "lat": 35.587576,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "平和島",
     "address": "大田区大森北6-13-11",
     "lon": 139.73491,
     "lat": 35.57868,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大森町",
     "address": "大田区大森西3-24-7",
     "lon": 139.732027,
     "lat": 35.572431,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "梅屋敷",
     "address": "大田区蒲田2-28-1",
     "lon": 139.728266,
     "lat": 35.566873,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "京急蒲田",
     "address": "大田区蒲田4-50-10",
     "lon": 139.723681,
     "lat": 35.560796,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "雑色",
     "address": "大田区仲六郷2-42-1",
     "lon": 139.715005,
     "lat": 35.549725,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "六郷土手",
     "address": "大田区仲六郷4-27-11",
     "lon": 139.7076,
     "lat": 35.540577,
-    "area": "wards"
-  },
-  {
-    "name": "京急蒲田",
-    "address": "大田区蒲田4-50-10",
-    "lon": 139.723681,
-    "lat": 35.560796,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "糀谷",
     "address": "大田区西糀谷4-13-17",
     "lon": 139.72962,
     "lat": 35.5545,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大鳥居",
     "address": "大田区西糀谷3-37-18",
     "lon": 139.739356,
     "lat": 35.552531,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "穴守稲荷",
     "address": "大田区羽田4-6-11",
     "lon": 139.746669,
     "lat": 35.550326,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "天空橋",
     "address": "大田区羽田空港1-1-2",
     "lon": 139.75423,
     "lat": 35.548908,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "羽田空港第3ターミナル",
     "address": "大田区羽田空港二丁目6番5号",
     "lon": 139.768968,
     "lat": 35.544676,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "羽田空港第1・第2ターミナル",
     "address": "大田区羽田空港3-3-4",
     "lon": 139.785962,
     "lat": 35.549809,
-    "area": "wards"
-  },
-  {
-    "name": "浅草",
-    "address": "台東区浅草一丁目1-3",
-    "lon": 139.797592,
-    "lat": 35.710733,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "田原町",
     "address": "台東区西浅草1-1-18",
     "lon": 139.790897,
     "lat": 35.709897,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "稲荷町",
     "address": "台東区東上野3-33-11",
     "lon": 139.782593,
     "lat": 35.711273,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区東上野三丁目19-6",
-    "lon": 139.777122,
-    "lat": 35.711482,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "上野広小路",
     "address": "台東区上野3-29-3",
     "lon": 139.772877,
     "lat": 35.70768,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "末広町",
     "address": "千代田区外神田4-7-3",
     "lon": 139.771713,
     "lat": 35.702972,
-    "area": "wards"
-  },
-  {
-    "name": "神田",
-    "address": "千代田区神田須田町一丁目16",
-    "lon": 139.770899,
-    "lat": 35.693587,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三越前",
     "address": "中央区日本橋室町1-8-1",
     "lon": 139.773594,
     "lat": 35.687101,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "日本橋",
     "address": "中央区日本橋1丁目",
     "lon": 139.773516,
     "lat": 35.682078,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "京橋",
     "address": "中央区京橋2-2-10",
     "lon": 139.770126,
     "lat": 35.676856,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "銀座",
     "address": "中央区銀座4-1-2",
     "lon": 139.763965,
     "lat": 35.671989,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区新橋二丁目17-5",
-    "lon": 139.758432,
-    "lat": 35.667434,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "虎ノ門",
     "address": "港区虎ノ門1-1-21",
     "lon": 139.749832,
     "lat": 35.670236,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "溜池山王",
     "address": "千代田区永田町2-11-1",
     "lon": 139.741419,
     "lat": 35.673621,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "赤坂見附",
     "address": "港区赤坂3-1-6",
     "lon": 139.737047,
     "lat": 35.677021,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "青山一丁目",
     "address": "港区南青山1-1-19",
     "lon": 139.724159,
     "lat": 35.672765,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "外苑前",
     "address": "港区北青山2-7-16",
     "lon": 139.717857,
     "lat": 35.670527,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "表参道",
     "address": "港区北青山3丁目",
     "lon": 139.712314,
     "lat": 35.665247,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目1-1",
-    "lon": 139.701,
-    "lat": 35.659066,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区南池袋一丁目28-1",
-    "lon": 139.711086,
-    "lat": 35.730256,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新大塚",
     "address": "文京区大塚4-51-5",
     "lon": 139.729971,
     "lat": 35.72569,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "茗荷谷",
     "address": "文京区小日向4-6-15",
     "lon": 139.737184,
     "lat": 35.716989,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "後楽園",
     "address": "文京区春日1-2-3",
     "lon": 139.751864,
     "lat": 35.707898,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "本郷三丁目",
     "address": "文京区本郷2-39-1",
     "lon": 139.759914,
     "lat": 35.706671,
-    "area": "wards"
-  },
-  {
-    "name": "御茶ノ水",
-    "address": "文京区湯島一丁目5-8",
-    "lon": 139.763952,
-    "lat": 35.700614,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "淡路町",
     "address": "千代田区神田淡路町1-2",
     "lon": 139.7675149,
     "lat": 35.6953595,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大手町",
     "address": "千代田区大手町1丁目",
     "lon": 139.7662,
     "lat": 35.686564,
-    "area": "wards"
-  },
-  {
-    "name": "東京",
-    "address": "千代田区丸の内一丁目",
-    "lon": 139.764708,
-    "lat": 35.681753,
-    "area": "wards"
-  },
-  {
-    "name": "銀座",
-    "address": "中央区銀座4-1-2",
-    "lon": 139.763965,
-    "lat": 35.671989,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "霞ケ関",
     "address": "千代田区霞が関2丁目",
     "lon": 139.750899,
     "lat": 35.673838,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "国会議事堂前",
     "address": "千代田区永田町1丁目",
     "lon": 139.745219,
     "lat": 35.67393,
-    "area": "wards"
-  },
-  {
-    "name": "赤坂見附",
-    "address": "港区赤坂3-1-6",
-    "lon": 139.737047,
-    "lat": 35.677021,
-    "area": "wards"
-  },
-  {
-    "name": "四ツ谷",
-    "address": "新宿区四谷1丁目",
-    "lon": 139.729947,
-    "lat": 35.684586,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "四谷三丁目",
     "address": "新宿区四谷3-8",
     "lon": 139.720103,
     "lat": 35.687958,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新宿御苑前",
     "address": "新宿区新宿1-8-1",
     "lon": 139.71069,
     "lat": 35.688588,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新宿三丁目",
     "address": "新宿区新宿3-14-1",
     "lon": 139.704895,
     "lat": 35.690847,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区西新宿一丁目西口地下街1号",
-    "lon": 139.700711,
-    "lat": 35.69235,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西新宿",
     "address": "新宿区西新宿6-7-51",
     "lon": 139.692778,
     "lat": 35.694298,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中野坂上",
     "address": "中野区中央2-1-2",
     "lon": 139.68291,
     "lat": 35.69792,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新中野",
     "address": "中野区中央4-2-15",
     "lon": 139.66903,
     "lat": 35.697491,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東高円寺",
     "address": "杉並区和田3-55-42",
     "lon": 139.657822,
     "lat": 35.697802,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新高円寺",
     "address": "杉並区高円寺南2-20-1",
     "lon": 139.648068,
     "lat": 35.697985,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "南阿佐ケ谷",
     "address": "杉並区阿佐谷南1-15-7",
     "lon": 139.63576,
     "lat": 35.699624,
-    "area": "wards"
-  },
-  {
-    "name": "荻窪",
-    "address": "杉並区上荻1丁目",
-    "lon": 139.620116,
-    "lat": 35.704304,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中野新橋",
     "address": "中野区弥生町2-26-8",
     "lon": 139.673997,
     "lat": 35.692123,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "中野富士見町",
     "address": "中野区弥生町5-24-4",
     "lon": 139.666933,
     "lat": 35.690514,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "方南町",
     "address": "杉並区堀ノ内1-1-1",
     "lon": 139.656498,
     "lat": 35.683496,
-    "area": "wards"
-  },
-  {
-    "name": "北千住",
-    "address": "足立区千住旭町",
-    "lon": 139.804276,
-    "lat": 35.748916,
-    "area": "wards"
-  },
-  {
-    "name": "南千住",
-    "address": "荒川区南千住4丁目",
-    "lon": 139.799273,
-    "lat": 35.733398,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三ノ輪",
     "address": "台東区三ノ輪2-14-7",
     "lon": 139.791485,
     "lat": 35.729623,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "入谷",
     "address": "台東区入谷1-6-4",
     "lon": 139.783924,
     "lat": 35.719862,
-    "area": "wards"
-  },
-  {
-    "name": "上野",
-    "address": "台東区東上野三丁目19-6",
-    "lon": 139.777122,
-    "lat": 35.711482,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "仲御徒町",
     "address": "台東区上野5-24-12",
     "lon": 139.776138,
     "lat": 35.706649,
-    "area": "wards"
-  },
-  {
-    "name": "秋葉原",
-    "address": "千代田区神田佐久間町一丁目21",
-    "lon": 139.775459,
-    "lat": 35.698162,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "小伝馬町",
     "address": "中央区日本橋小伝馬町11-1",
     "lon": 139.778433,
     "lat": 35.690737,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "人形町",
     "address": "中央区日本橋人形町2-6-5",
     "lon": 139.782285,
     "lat": 35.686307,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "茅場町",
     "address": "中央区日本橋茅場町1-4-6",
     "lon": 139.780005,
     "lat": 35.679752,
-    "area": "wards"
-  },
-  {
-    "name": "八丁堀",
-    "address": "中央区八丁堀3丁目",
-    "lon": 139.776982,
-    "lat": 35.674851,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "築地",
     "address": "中央区築地3-15-1",
     "lon": 139.772603,
     "lat": 35.668115,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東銀座",
     "address": "中央区銀座4-12-15",
     "lon": 139.767253,
     "lat": 35.669464,
-    "area": "wards"
-  },
-  {
-    "name": "銀座",
-    "address": "中央区銀座4-1-2",
-    "lon": 139.763965,
-    "lat": 35.671989,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "日比谷",
     "address": "千代田区有楽町1丁目",
     "lon": 139.76017,
     "lat": 35.67459,
-    "area": "wards"
-  },
-  {
-    "name": "霞ケ関",
-    "address": "千代田区霞が関2丁目",
-    "lon": 139.750899,
-    "lat": 35.673838,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "虎ノ門ヒルズ",
     "address": "港区虎ノ門一丁目22-12",
     "lon": 139.747778,
     "lat": 35.667444,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "神谷町",
     "address": "港区虎ノ門5-12-11",
     "lon": 139.745069,
     "lat": 35.662978,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "六本木",
     "address": "港区六本木6-1-25",
     "lon": 139.731443,
     "lat": 35.662836,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "広尾",
     "address": "港区南麻布5-10-28",
     "lon": 139.722202,
     "lat": 35.652279,
-    "area": "wards"
-  },
-  {
-    "name": "恵比寿",
-    "address": "渋谷区恵比寿南一丁目5-5",
-    "lon": 139.708988,
-    "lat": 35.647332,
-    "area": "wards"
-  },
-  {
-    "name": "中目黒",
-    "address": "目黒区上目黒3-4-1",
-    "lon": 139.698621,
-    "lat": 35.643854,
-    "area": "wards"
-  },
-  {
-    "name": "中野",
-    "address": "中野区中野5丁目",
-    "lon": 139.665835,
-    "lat": 35.705765,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "落合",
     "address": "新宿区上落合2-13-7",
     "lon": 139.687284,
     "lat": 35.710976,
-    "area": "wards"
-  },
-  {
-    "name": "高田馬場",
-    "address": "新宿区高田馬場一丁目35-1",
-    "lon": 139.704745,
-    "lat": 35.713338,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "早稲田",
     "address": "新宿区早稲田南町12",
     "lon": 139.721319,
     "lat": 35.705723,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "神楽坂",
     "address": "新宿区矢来町112",
     "lon": 139.734546,
     "lat": 35.70379,
-    "area": "wards"
-  },
-  {
-    "name": "飯田橋",
-    "address": "千代田区飯田橋四丁目10-3",
-    "lon": 139.745986,
-    "lat": 35.701725,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "九段下",
     "address": "千代田区九段南1-6-1",
     "lon": 139.751948,
     "lat": 35.695589,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "竹橋",
     "address": "千代田区一ツ橋1-1-1",
     "lon": 139.756817,
     "lat": 35.690662,
-    "area": "wards"
-  },
-  {
-    "name": "大手町",
-    "address": "千代田区大手町1丁目",
-    "lon": 139.766086,
-    "lat": 35.684801,
-    "area": "wards"
-  },
-  {
-    "name": "日本橋",
-    "address": "中央区日本橋1丁目",
-    "lon": 139.773516,
-    "lat": 35.682078,
-    "area": "wards"
-  },
-  {
-    "name": "茅場町",
-    "address": "中央区日本橋茅場町1-4-6",
-    "lon": 139.780005,
-    "lat": 35.679752,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "門前仲町",
     "address": "江東区門前仲町1丁目",
     "lon": 139.796209,
     "lat": 35.671851,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "木場",
     "address": "江東区木場5-5-1",
     "lon": 139.807042,
     "lat": 35.669351,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東陽町",
     "address": "江東区東陽4-2-1",
     "lon": 139.817596,
     "lat": 35.669629,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "南砂町",
     "address": "江東区南砂3-11-85",
     "lon": 139.83065,
     "lat": 35.668796,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "西葛西",
     "address": "江戸川区西葛西6-14-1",
     "lon": 139.859259,
     "lat": 35.664631,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "葛西",
     "address": "江戸川区中葛西5-43-11",
     "lon": 139.872458,
     "lat": 35.663554,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "北綾瀬",
     "address": "足立区谷中2丁目",
     "lon": 139.832035,
     "lat": 35.777117,
-    "area": "wards"
-  },
-  {
-    "name": "綾瀬",
-    "address": "足立区綾瀬3丁目",
-    "lon": 139.825019,
-    "lat": 35.762222,
-    "area": "wards"
-  },
-  {
-    "name": "北千住",
-    "address": "足立区千住旭町",
-    "lon": 139.804276,
-    "lat": 35.748916,
-    "area": "wards"
-  },
-  {
-    "name": "町屋",
-    "address": "荒川区町屋1丁目",
-    "lon": 139.780501,
-    "lat": 35.742733,
-    "area": "wards"
-  },
-  {
-    "name": "西日暮里",
-    "address": "荒川区西日暮里五丁目14-1",
-    "lon": 139.766511,
-    "lat": 35.732257,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "千駄木",
     "address": "文京区千駄木2丁目",
     "lon": 139.763243,
     "lat": 35.725549,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "根津",
     "address": "文京区根津1丁目",
     "lon": 139.765655,
     "lat": 35.7174,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "湯島",
     "address": "文京区湯島3丁目",
     "lon": 139.769916,
     "lat": 35.708243,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新御茶ノ水",
     "address": "千代田区神田駿河台3丁目",
     "lon": 139.766014,
     "lat": 35.698072,
-    "area": "wards"
-  },
-  {
-    "name": "大手町",
-    "address": "千代田区大手町1丁目",
-    "lon": 139.763399,
-    "lat": 35.686154,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "二重橋前",
     "address": "千代田区丸の内2丁目",
     "lon": 139.761948,
     "lat": 35.681071,
-    "area": "wards"
-  },
-  {
-    "name": "日比谷",
-    "address": "千代田区有楽町1丁目",
-    "lon": 139.758732,
-    "lat": 35.674241,
-    "area": "wards"
-  },
-  {
-    "name": "霞ケ関",
-    "address": "千代田区霞が関2丁目",
-    "lon": 139.750899,
-    "lat": 35.673838,
-    "area": "wards"
-  },
-  {
-    "name": "国会議事堂前",
-    "address": "千代田区永田町1丁目",
-    "lon": 139.745219,
-    "lat": 35.67393,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "赤坂",
     "address": "港区赤坂5丁目",
     "lon": 139.738348,
     "lat": 35.67323,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "乃木坂",
     "address": "港区南青山1丁目",
     "lon": 139.726215,
     "lat": 35.666572,
-    "area": "wards"
-  },
-  {
-    "name": "表参道",
-    "address": "港区北青山3丁目",
-    "lon": 139.712314,
-    "lat": 35.665247,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "明治神宮前〈原宿〉",
     "address": "渋谷区神宮前1丁目",
     "lon": 139.703995,
     "lat": 35.669071,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "代々木公園",
     "address": "渋谷区富ケ谷1丁目",
     "lon": 139.689099,
     "lat": 35.669187,
-    "area": "wards"
-  },
-  {
-    "name": "代々木上原",
-    "address": "渋谷区西原3丁目",
-    "lon": 139.680153,
-    "lat": 35.669159,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "地下鉄成増",
     "address": "板橋区成増二丁目11-3",
     "lon": 139.631497,
     "lat": 35.776557,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "地下鉄赤塚",
     "address": "練馬区北町八丁目37-16",
     "lon": 139.644021,
     "lat": 35.769939,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "平和台",
     "address": "練馬区早宮2-17-48",
     "lon": 139.653762,
     "lat": 35.757863,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "氷川台",
     "address": "練馬区氷川台三丁目38-18",
     "lon": 139.665567,
     "lat": 35.74955,
-    "area": "wards"
-  },
-  {
-    "name": "小竹向原",
-    "address": "練馬区小竹町二丁目16-15",
-    "lon": 139.678572,
-    "lat": 35.743803,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千川",
     "address": "豊島区要町三丁目10-7",
     "lon": 139.689271,
     "lat": 35.738229,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "要町",
     "address": "豊島区要町一丁目1-10",
     "lon": 139.698715,
     "lat": 35.73323,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区西池袋三丁目28-14",
-    "lon": 139.710088,
-    "lat": 35.729565,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東池袋",
     "address": "豊島区東池袋四丁目4-4",
     "lon": 139.719546,
     "lat": 35.725732,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "護国寺",
     "address": "文京区大塚五丁目40-8",
     "lon": 139.72754,
     "lat": 35.719044,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "江戸川橋",
     "address": "文京区関口一丁目19-6",
     "lon": 139.733538,
     "lat": 35.709495,
-    "area": "wards"
-  },
-  {
-    "name": "飯田橋",
-    "address": "新宿区神楽坂一丁目13",
-    "lon": 139.743669,
-    "lat": 35.701934,
-    "area": "wards"
-  },
-  {
-    "name": "市ケ谷",
-    "address": "新宿区市谷田町一丁目先",
-    "lon": 139.73625,
-    "lat": 35.691389,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "麹町",
     "address": "千代田区麹町三丁目2",
     "lon": 139.737613,
     "lat": 35.684006,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "永田町",
     "address": "千代田区永田町一丁目11-28",
     "lon": 139.740258,
     "lat": 35.678757,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "桜田門",
     "address": "千代田区霞が関二丁目1-1",
     "lon": 139.75149,
     "lat": 35.677405,
-    "area": "wards"
-  },
-  {
-    "name": "有楽町",
-    "address": "千代田区有楽町一丁目11-1",
-    "lon": 139.763265,
-    "lat": 35.675714,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "銀座一丁目",
     "address": "中央区銀座一丁目7-12",
     "lon": 139.767045,
     "lat": 35.67435,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新富町",
     "address": "中央区築地一丁目1-1",
     "lon": 139.773711,
     "lat": 35.670462,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "月島",
     "address": "中央区月島一丁目3-9",
     "lon": 139.784233,
     "lat": 35.664871,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "豊洲",
     "address": "江東区豊洲四丁目1-1",
     "lon": 139.79621,
     "lat": 35.654908,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "辰巳",
     "address": "江東区辰巳一丁目1-44",
     "lon": 139.81052,
     "lat": 35.645576,
-    "area": "wards"
-  },
-  {
-    "name": "新木場",
-    "address": "江東区新木場一丁目6",
-    "lon": 139.826254,
-    "lat": 35.645832,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂二丁目1-1",
-    "lon": 139.701,
-    "lat": 35.659066,
-    "area": "wards"
-  },
-  {
-    "name": "表参道",
-    "address": "港区北青山3丁目",
-    "lon": 139.712314,
-    "lat": 35.665247,
-    "area": "wards"
-  },
-  {
-    "name": "青山一丁目",
-    "address": "港区南青山1-1-19",
-    "lon": 139.724159,
-    "lat": 35.672765,
-    "area": "wards"
-  },
-  {
-    "name": "永田町",
-    "address": "千代田区永田町一丁目11-29",
-    "lon": 139.740258,
-    "lat": 35.678757,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "半蔵門",
     "address": "千代田区麹町1-6",
     "lon": 139.74163,
     "lat": 35.685703,
-    "area": "wards"
-  },
-  {
-    "name": "九段下",
-    "address": "千代田区九段南1-6-1",
-    "lon": 139.751948,
-    "lat": 35.695589,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "神保町",
     "address": "千代田区神田神保町2-2",
     "lon": 139.757606,
     "lat": 35.695966,
-    "area": "wards"
-  },
-  {
-    "name": "大手町",
-    "address": "千代田区大手町1丁目",
-    "lon": 139.764107,
-    "lat": 35.68686,
-    "area": "wards"
-  },
-  {
-    "name": "三越前",
-    "address": "中央区日本橋室町1-8-1",
-    "lon": 139.773147,
-    "lat": 35.684908,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "水天宮前",
     "address": "中央区日本橋蛎殻町2-1-1",
     "lon": 139.785377,
     "lat": 35.682683,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "清澄白河",
     "address": "江東区白河1-7-14",
     "lon": 139.798851,
     "lat": 35.682105,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "住吉",
     "address": "江東区住吉2-23-12",
     "lon": 139.815681,
     "lat": 35.689073,
-    "area": "wards"
-  },
-  {
-    "name": "錦糸町",
-    "address": "墨田区江東橋3丁目",
-    "lon": 139.814941,
-    "lat": 35.697578,
-    "area": "wards"
-  },
-  {
-    "name": "押上〈スカイツリー前〉",
-    "address": "墨田区押上一丁目",
-    "lon": 139.812935,
-    "lat": 35.710702,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "赤羽岩淵",
     "address": "北区赤羽1-52-8",
     "lon": 139.722103,
     "lat": 35.783417,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "志茂",
     "address": "北区志茂2-1-18",
     "lon": 139.732599,
     "lat": 35.777948,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "王子神谷",
     "address": "北区王子5-2-11",
     "lon": 139.735933,
     "lat": 35.765172,
-    "area": "wards"
-  },
-  {
-    "name": "王子",
-    "address": "北区王子1丁目",
-    "lon": 139.737618,
-    "lat": 35.753966,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西ケ原",
     "address": "北区西ヶ原二丁目3-8",
     "lon": 139.742322,
     "lat": 35.746008,
-    "area": "wards"
-  },
-  {
-    "name": "駒込",
-    "address": "豊島区駒込二丁目",
-    "lon": 139.746442,
-    "lat": 35.736959,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "本駒込",
     "address": "文京区向丘2-37-1",
     "lon": 139.753828,
     "lat": 35.724155,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東大前",
     "address": "文京区向丘1-19-2",
     "lon": 139.758025,
     "lat": 35.717633,
-    "area": "wards"
-  },
-  {
-    "name": "後楽園",
-    "address": "文京区春日1-2-3",
-    "lon": 139.751864,
-    "lat": 35.707898,
-    "area": "wards"
-  },
-  {
-    "name": "飯田橋",
-    "address": "新宿区神楽坂一丁目13",
-    "lon": 139.743669,
-    "lat": 35.701934,
-    "area": "wards"
-  },
-  {
-    "name": "市ケ谷",
-    "address": "新宿区市谷田町一丁目先",
-    "lon": 139.736389,
-    "lat": 35.692972,
-    "area": "wards"
-  },
-  {
-    "name": "四ツ谷",
-    "address": "新宿区四谷1丁目",
-    "lon": 139.72955,
-    "lat": 35.686032,
-    "area": "wards"
-  },
-  {
-    "name": "永田町",
-    "address": "千代田区永田町一丁目11-28",
-    "lon": 139.740258,
-    "lat": 35.678757,
-    "area": "wards"
-  },
-  {
-    "name": "溜池山王",
-    "address": "千代田区永田町2-11-1",
-    "lon": 139.741419,
-    "lat": 35.673621,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "六本木一丁目",
     "address": "港区六本木1-4-1",
     "lon": 139.739,
     "lat": 35.665595,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "麻布十番",
     "address": "港区麻布十番4-4-9",
     "lon": 139.737051,
     "lat": 35.654682,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "白金高輪",
     "address": "港区高輪1-3-20",
     "lon": 139.734104,
     "lat": 35.642903,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "白金台",
     "address": "港区白金台3-2",
     "lon": 139.726133,
     "lat": 35.637917,
-    "area": "wards"
-  },
-  {
-    "name": "目黒",
-    "address": "品川区上大崎四丁目2-1",
-    "lon": 139.7155,
-    "lat": 35.633272,
-    "area": "wards"
-  },
-  {
-    "name": "地下鉄成増",
-    "address": "板橋区成増二丁目11-3",
-    "lon": 139.631497,
-    "lat": 35.776557,
-    "area": "wards"
-  },
-  {
-    "name": "地下鉄赤塚",
-    "address": "練馬区北町八丁目37-16",
-    "lon": 139.644021,
-    "lat": 35.769939,
-    "area": "wards"
-  },
-  {
-    "name": "平和台",
-    "address": "練馬区早宮2-17-48",
-    "lon": 139.653762,
-    "lat": 35.757863,
-    "area": "wards"
-  },
-  {
-    "name": "氷川台",
-    "address": "練馬区氷川台三丁目38-18",
-    "lon": 139.665567,
-    "lat": 35.74955,
-    "area": "wards"
-  },
-  {
-    "name": "小竹向原",
-    "address": "練馬区小竹町二丁目16-15",
-    "lon": 139.678572,
-    "lat": 35.743803,
-    "area": "wards"
-  },
-  {
-    "name": "千川",
-    "address": "豊島区要町三丁目10-7",
-    "lon": 139.689271,
-    "lat": 35.738229,
-    "area": "wards"
-  },
-  {
-    "name": "要町",
-    "address": "豊島区要町一丁目1-10",
-    "lon": 139.698715,
-    "lat": 35.73323,
-    "area": "wards"
-  },
-  {
-    "name": "池袋",
-    "address": "豊島区南池袋一丁目28-1",
-    "lon": 139.708291,
-    "lat": 35.731464,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "雑司が谷",
     "address": "豊島区雑司が谷二丁目",
     "lon": 139.714795,
     "lat": 35.720233,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西早稲田",
     "address": "新宿区西早稲田二丁目",
     "lon": 139.709101,
     "lat": 35.708242,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東新宿",
     "address": "新宿区新宿7-27-3",
     "lon": 139.707593,
     "lat": 35.698915,
-    "area": "wards"
-  },
-  {
-    "name": "新宿三丁目",
-    "address": "新宿区新宿3-14-1",
-    "lon": 139.704828,
-    "lat": 35.690853,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "北参道",
     "address": "渋谷区千駄ヶ谷4丁目",
     "lon": 139.705453,
     "lat": 35.678459,
-    "area": "wards"
-  },
-  {
-    "name": "明治神宮前〈原宿〉",
-    "address": "渋谷区神宮前1丁目",
-    "lon": 139.705367,
-    "lat": 35.668497,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂二丁目1-1",
-    "lon": 139.702417,
-    "lat": 35.659545,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区新宿三丁目38-1",
-    "lon": 139.700464,
-    "lat": 35.689729,
-    "area": "wards"
-  },
-  {
-    "name": "渋谷",
-    "address": "渋谷区道玄坂一丁目1-1",
-    "lon": 139.701238,
-    "lat": 35.658871,
-    "area": "wards"
-  },
-  {
-    "name": "恵比寿",
-    "address": "渋谷区恵比寿南一丁目5-5",
-    "lon": 139.71007,
-    "lat": 35.646685,
-    "area": "wards"
-  },
-  {
-    "name": "大崎",
-    "address": "品川区大崎一丁目21-4",
-    "lon": 139.728439,
-    "lat": 35.619772,
-    "area": "wards"
-  },
-  {
-    "name": "西大井",
-    "address": "品川区西大井1丁目",
-    "lon": 139.721729,
-    "lat": 35.601616,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "都庁前",
     "address": "新宿区西新宿2-8-1",
     "lon": 139.69257,
     "lat": 35.690551,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新宿西口",
     "address": "新宿区西新宿1-3-17",
     "lon": 139.699155,
     "lat": 35.693315,
-    "area": "wards"
-  },
-  {
-    "name": "東新宿",
-    "address": "新宿区新宿7-27-3",
-    "lon": 139.707549,
-    "lat": 35.69792,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "若松河田",
     "address": "新宿区河田町10-10",
     "lon": 139.718184,
     "lat": 35.699218,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "牛込柳町",
     "address": "新宿区原町2-32",
     "lon": 139.725027,
     "lat": 35.699518,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "牛込神楽坂",
     "address": "新宿区箪笥町15",
     "lon": 139.735802,
     "lat": 35.700851,
-    "area": "wards"
-  },
-  {
-    "name": "飯田橋",
-    "address": "文京区後楽一丁目9-5",
-    "lon": 139.744999,
-    "lat": 35.702927,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "春日",
     "address": "文京区春日1-16-17",
     "lon": 139.75325,
     "lat": 35.709598,
-    "area": "wards"
-  },
-  {
-    "name": "本郷三丁目",
-    "address": "文京区本郷2-39-1",
-    "lon": 139.760095,
-    "lat": 35.707462,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "上野御徒町",
     "address": "台東区上野5-26-6",
     "lon": 139.774332,
     "lat": 35.707893,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新御徒町",
     "address": "台東区元浅草1-5-2",
     "lon": 139.781958,
     "lat": 35.707045,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "蔵前",
     "address": "台東区蔵前2-3-1",
     "lon": 139.790931,
     "lat": 35.703236,
-    "area": "wards"
-  },
-  {
-    "name": "両国",
-    "address": "墨田区横網1丁目",
-    "lon": 139.797421,
-    "lat": 35.696881,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "森下",
     "address": "江東区森下2-17-17",
     "lon": 139.797042,
     "lat": 35.68796,
-    "area": "wards"
-  },
-  {
-    "name": "清澄白河",
-    "address": "江東区白河1-7-14",
-    "lon": 139.798851,
-    "lat": 35.682105,
-    "area": "wards"
-  },
-  {
-    "name": "門前仲町",
-    "address": "江東区門前仲町1丁目",
-    "lon": 139.796209,
-    "lat": 35.671851,
-    "area": "wards"
-  },
-  {
-    "name": "月島",
-    "address": "中央区月島一丁目3-9",
-    "lon": 139.784233,
-    "lat": 35.664871,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "勝どき",
     "address": "中央区勝どき2-10-15",
     "lon": 139.776442,
     "lat": 35.658507,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "築地市場",
     "address": "中央区築地5-1-2",
     "lon": 139.766915,
     "lat": 35.664895,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "汐留",
     "address": "港区東新橋1丁目5",
     "lon": 139.760642,
     "lat": 35.663703,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大門",
     "address": "港区浜松町1-27-12",
     "lon": 139.75466,
     "lat": 35.656785,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "赤羽橋",
     "address": "港区東麻布1-28-13",
     "lon": 139.743642,
     "lat": 35.655007,
-    "area": "wards"
-  },
-  {
-    "name": "麻布十番",
-    "address": "港区麻布十番4-4-9",
-    "lon": 139.736116,
-    "lat": 35.656503,
-    "area": "wards"
-  },
-  {
-    "name": "六本木",
-    "address": "港区六本木6-1-25",
-    "lon": 139.731567,
-    "lat": 35.663921,
-    "area": "wards"
-  },
-  {
-    "name": "青山一丁目",
-    "address": "港区南青山1-1-19",
-    "lon": 139.72396,
-    "lat": 35.672929,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "国立競技場",
     "address": "新宿区霞ケ丘町10-3",
     "lon": 139.714932,
     "lat": 35.679831,
-    "area": "wards"
-  },
-  {
-    "name": "代々木",
-    "address": "渋谷区代々木一丁目35-5",
-    "lon": 139.701666,
-    "lat": 35.683218,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "渋谷区代々木二丁目1-1",
-    "lon": 139.698812,
-    "lat": 35.68869,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西新宿五丁目",
     "address": "新宿区西新宿5-25-9",
     "lon": 139.684304,
     "lat": 35.689798,
-    "area": "wards"
-  },
-  {
-    "name": "中野坂上",
-    "address": "中野区中央2-1-2",
-    "lon": 139.682279,
-    "lat": 35.69709,
-    "area": "wards"
-  },
-  {
-    "name": "東中野",
-    "address": "中野区東中野4丁目",
-    "lon": 139.682987,
-    "lat": 35.706891,
-    "area": "wards"
-  },
-  {
-    "name": "中井",
-    "address": "新宿区中落合1-19-1",
-    "lon": 139.686356,
-    "lat": 35.714035,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "落合南長崎",
     "address": "新宿区西落合3-1-18",
     "lon": 139.683303,
     "lat": 35.723608,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新江古田",
     "address": "中野区江原町2-29-13",
     "lon": 139.670653,
     "lat": 35.732538,
-    "area": "wards"
-  },
-  {
-    "name": "練馬",
-    "address": "練馬区練馬1-3-5",
-    "lon": 139.65477,
-    "lat": 35.737404,
-    "area": "wards"
-  },
-  {
-    "name": "豊島園",
-    "address": "練馬区練馬4-16-5",
-    "lon": 139.64911,
-    "lat": 35.742067,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "練馬春日町",
     "address": "練馬区春日町3-29-25",
     "lon": 139.640236,
     "lat": 35.751452,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "光が丘",
     "address": "練馬区光が丘2-9-5",
     "lon": 139.628603,
     "lat": 35.758526,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西馬込",
     "address": "大田区西馬込2-1-6",
     "lon": 139.705942,
     "lat": 35.586859,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "馬込",
     "address": "大田区北馬込2-31-9",
     "lon": 139.711772,
     "lat": 35.596435,
-    "area": "wards"
-  },
-  {
-    "name": "中延",
-    "address": "品川区中延4-5-5",
-    "lon": 139.713736,
-    "lat": 35.605769,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "戸越",
     "address": "品川区戸越3-4-17",
     "lon": 139.716495,
     "lat": 35.614633,
-    "area": "wards"
-  },
-  {
-    "name": "五反田",
-    "address": "品川区東五反田一丁目26-14",
-    "lon": 139.724175,
-    "lat": 35.627102,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高輪台",
     "address": "港区白金台2-26-7",
     "lon": 139.730305,
     "lat": 35.631679,
-    "area": "wards"
-  },
-  {
-    "name": "泉岳寺",
-    "address": "港区高輪2-16-34",
-    "lon": 139.74002,
-    "lat": 35.638692,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "三田",
     "address": "港区芝5-34-10",
     "lon": 139.748775,
     "lat": 35.64818,
-    "area": "wards"
-  },
-  {
-    "name": "大門",
-    "address": "港区浜松町1-27-12",
-    "lon": 139.75466,
-    "lat": 35.656785,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区新橋二丁目21-1",
-    "lon": 139.759451,
-    "lat": 35.665577,
-    "area": "wards"
-  },
-  {
-    "name": "東銀座",
-    "address": "中央区銀座4-12-15",
-    "lon": 139.767253,
-    "lat": 35.669464,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "宝町",
     "address": "中央区京橋2-13-11",
     "lon": 139.771767,
     "lat": 35.675461,
-    "area": "wards"
-  },
-  {
-    "name": "日本橋",
-    "address": "中央区日本橋1丁目",
-    "lon": 139.775721,
-    "lat": 35.681688,
-    "area": "wards"
-  },
-  {
-    "name": "人形町",
-    "address": "中央区日本橋人形町2-6-5",
-    "lon": 139.782285,
-    "lat": 35.686307,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東日本橋",
     "address": "中央区東日本橋3-11-8",
     "lon": 139.784821,
     "lat": 35.692126,
-    "area": "wards"
-  },
-  {
-    "name": "浅草橋",
-    "address": "台東区浅草橋1丁目",
-    "lon": 139.786305,
-    "lat": 35.697451,
-    "area": "wards"
-  },
-  {
-    "name": "蔵前",
-    "address": "台東区蔵前2-3-1",
-    "lon": 139.790931,
-    "lat": 35.703236,
-    "area": "wards"
-  },
-  {
-    "name": "浅草",
-    "address": "台東区駒形一丁目12-14",
-    "lon": 139.79697,
-    "lat": 35.709461,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "本所吾妻橋",
     "address": "墨田区吾妻橋3-7-16",
     "lon": 139.804624,
     "lat": 35.70858,
-    "area": "wards"
-  },
-  {
-    "name": "押上（スカイツリー前）",
-    "address": "墨田区押上一丁目",
-    "lon": 139.812935,
-    "lat": 35.710702,
-    "area": "wards"
-  },
-  {
-    "name": "目黒",
-    "address": "品川区上大崎四丁目2-1",
-    "lon": 139.7155,
-    "lat": 35.633272,
-    "area": "wards"
-  },
-  {
-    "name": "白金台",
-    "address": "港区白金台3-2",
-    "lon": 139.726133,
-    "lat": 35.637917,
-    "area": "wards"
-  },
-  {
-    "name": "白金高輪",
-    "address": "港区高輪1-3-20",
-    "lon": 139.734104,
-    "lat": 35.642903,
-    "area": "wards"
-  },
-  {
-    "name": "三田",
-    "address": "港区芝5-34-10",
-    "lon": 139.748775,
-    "lat": 35.64818,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "芝公園",
     "address": "港区芝公園4-8-14",
     "lon": 139.749824,
     "lat": 35.654074,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "御成門",
     "address": "港区西新橋3-24-6",
     "lon": 139.751535,
     "lat": 35.661215,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "内幸町",
     "address": "千代田区内幸町2-2-3",
     "lon": 139.75561,
     "lat": 35.66975,
-    "area": "wards"
-  },
-  {
-    "name": "日比谷",
-    "address": "千代田区有楽町1丁目",
-    "lon": 139.759998,
-    "lat": 35.676036,
-    "area": "wards"
-  },
-  {
-    "name": "大手町",
-    "address": "千代田区大手町1丁目",
-    "lon": 139.762959,
-    "lat": 35.684856,
-    "area": "wards"
-  },
-  {
-    "name": "神保町",
-    "address": "千代田区神田神保町2-2",
-    "lon": 139.75812,
-    "lat": 35.695492,
-    "area": "wards"
-  },
-  {
-    "name": "水道橋",
-    "address": "文京区後楽一丁目3-42",
-    "lon": 139.75516,
-    "lat": 35.703398,
-    "area": "wards"
-  },
-  {
-    "name": "春日",
-    "address": "文京区春日1-16-17",
-    "lon": 139.75325,
-    "lat": 35.709598,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "白山",
     "address": "文京区白山5-36-10",
     "lon": 139.752136,
     "lat": 35.721408,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "千石",
     "address": "文京区千石1-29-13",
     "lon": 139.744792,
     "lat": 35.727957,
-    "area": "wards"
-  },
-  {
-    "name": "巣鴨",
-    "address": "豊島区巣鴨三丁目27-7",
-    "lon": 139.738519,
-    "lat": 35.733502,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西巣鴨",
     "address": "豊島区西巣鴨3-25-13",
     "lon": 139.728712,
     "lat": 35.743508,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新板橋",
     "address": "板橋区板橋1-53-17",
     "lon": 139.720101,
     "lat": 35.748785,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "板橋区役所前",
     "address": "板橋区板橋2-66-17",
     "lon": 139.710102,
     "lat": 35.751284,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "板橋本町",
     "address": "板橋区大和町17-1",
     "lon": 139.705535,
     "lat": 35.761339,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "本蓮沼",
     "address": "板橋区蓮沼町19-8",
     "lon": 139.702324,
     "lat": 35.768782,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "志村坂上",
     "address": "板橋区志村1-14-13",
     "lon": 139.69538,
     "lat": 35.775725,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "志村三丁目",
     "address": "板橋区志村3-23-1",
     "lon": 139.685937,
     "lat": 35.777391,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "蓮根",
     "address": "板橋区蓮根2-31-30",
     "lon": 139.678993,
     "lat": 35.784335,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西台",
     "address": "板橋区高島平9-1-1",
     "lon": 139.673971,
     "lat": 35.78699,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "高島平",
     "address": "板橋区高島平8-2-1",
     "lon": 139.661216,
     "lat": 35.789056,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新高島平",
     "address": "板橋区高島平7-1",
     "lon": 139.654275,
     "lat": 35.790189,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西高島平",
     "address": "板橋区高島平6-1",
     "lon": 139.64594,
     "lat": 35.791833,
-    "area": "wards"
-  },
-  {
-    "name": "新宿",
-    "address": "新宿区西新宿一丁目18",
-    "lon": 139.698812,
-    "lat": 35.68869,
-    "area": "wards"
-  },
-  {
-    "name": "新宿三丁目",
-    "address": "新宿区新宿3-14-1",
-    "lon": 139.706271,
-    "lat": 35.690616,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "曙橋",
     "address": "新宿区住吉町7-1",
     "lon": 139.722881,
     "lat": 35.692402,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "市ヶ谷",
     "address": "千代田区九段南四丁目8-22",
     "lon": 139.737639,
     "lat": 35.691556,
-    "area": "wards"
-  },
-  {
-    "name": "九段下",
-    "address": "千代田区九段南1-6-1",
-    "lon": 139.751948,
-    "lat": 35.695589,
-    "area": "wards"
-  },
-  {
-    "name": "神保町",
-    "address": "千代田区神田神保町2-2",
-    "lon": 139.757606,
-    "lat": 35.695966,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "小川町",
     "address": "千代田区神田小川町1-6",
     "lon": 139.766667,
     "lat": 35.695056,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "岩本町",
     "address": "千代田区神田岩本町1",
     "lon": 139.775866,
     "lat": 35.695534,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "馬喰横山",
     "address": "中央区日本橋横山町4-13",
     "lon": 139.782768,
     "lat": 35.69212,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "浜町",
     "address": "中央区日本橋浜町2-59-3",
     "lon": 139.788154,
     "lat": 35.688516,
-    "area": "wards"
-  },
-  {
-    "name": "森下",
-    "address": "江東区森下2-17-17",
-    "lon": 139.797042,
-    "lat": 35.68796,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "菊川",
     "address": "墨田区菊川3-16-2",
     "lon": 139.806016,
     "lat": 35.688379,
-    "area": "wards"
-  },
-  {
-    "name": "住吉",
-    "address": "江東区住吉2-23-12",
-    "lon": 139.815681,
-    "lat": 35.689073,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "西大島",
     "address": "江東区大島2-41-19",
     "lon": 139.826206,
     "lat": 35.689349,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "大島",
     "address": "江東区大島5-10-8",
     "lon": 139.83565,
     "lat": 35.689905,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東大島",
     "address": "江東区大島9-3-14",
     "lon": 139.845963,
     "lat": 35.690355,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "船堀",
     "address": "江戸川区船堀3-6-1",
     "lon": 139.864258,
     "lat": 35.683795,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "一之江",
     "address": "江戸川区春江町4-2",
     "lon": 139.882934,
     "lat": 35.686055,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "瑞江",
     "address": "江戸川区瑞江2-2-1",
     "lon": 139.89761,
     "lat": 35.693318,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "篠崎",
     "address": "江戸川区篠崎町7-27-1",
     "lon": 139.903698,
     "lat": 35.706017,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "三ノ輪橋",
     "address": "荒川区南千住1",
     "lon": 139.791412,
     "lat": 35.732248,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川一中前",
     "address": "荒川区南千住1-1",
     "lon": 139.788988,
     "lat": 35.733659,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川区役所前",
     "address": "荒川区荒川1",
     "lon": 139.786456,
     "lat": 35.73493,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川二丁目",
     "address": "荒川区荒川2",
     "lon": 139.784696,
     "lat": 35.738623,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川七丁目",
     "address": "荒川区荒川7",
     "lon": 139.78417,
     "lat": 35.741975,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "町屋駅前",
     "address": "荒川区荒川7",
     "lon": 139.781145,
     "lat": 35.74275,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "町屋二丁目",
     "address": "荒川区荒川6",
     "lon": 139.776625,
     "lat": 35.743837,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東尾久三丁目",
     "address": "荒川区東尾久3",
     "lon": 139.774386,
     "lat": 35.745398,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "熊野前",
     "address": "荒川区東尾久5",
     "lon": 139.769204,
     "lat": 35.749212,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "宮ノ前",
     "address": "荒川区東尾久5",
     "lon": 139.764955,
     "lat": 35.750135,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "小台",
     "address": "荒川区西尾久5",
     "lon": 139.761779,
     "lat": 35.750579,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川遊園地前",
     "address": "荒川区西尾久5",
     "lon": 139.757767,
     "lat": 35.750744,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "荒川車庫前",
     "address": "荒川区西尾久7",
     "lon": 139.752617,
     "lat": 35.750909,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "梶原",
     "address": "北区堀船3",
     "lon": 139.747403,
     "lat": 35.751162,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "栄町",
     "address": "北区栄町",
     "lon": 139.742124,
     "lat": 35.750909,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "王子駅前",
     "address": "北区王子1",
     "lon": 139.738278,
     "lat": 35.752722,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "飛鳥山",
     "address": "北区滝野川1",
     "lon": 139.737382,
     "lat": 35.750248,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "滝野川一丁目",
     "address": "北区滝野川1",
     "lon": 139.735376,
     "lat": 35.747374,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "西ヶ原四丁目",
     "address": "北区西ヶ原四丁目",
     "lon": 139.732779,
     "lat": 35.744501,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新庚申塚",
     "address": "豊島区西巣鴨4",
     "lon": 139.730451,
     "lat": 35.741348,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "庚申塚",
     "address": "豊島区西巣鴨3",
     "lon": 139.729743,
     "lat": 35.739563,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "巣鴨新田",
     "address": "豊島区西巣鴨1",
     "lon": 139.727769,
     "lat": 35.735488,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大塚駅前",
     "address": "豊島区南大塚3",
     "lon": 139.729333,
     "lat": 35.731583,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "向原",
     "address": "豊島区南大塚3",
     "lon": 139.724894,
     "lat": 35.728938,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東池袋四丁目",
     "address": "豊島区東池袋5",
     "lon": 139.720012,
     "lat": 35.72528,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "都電雑司ヶ谷",
     "address": "豊島区南池袋",
     "lon": 139.718006,
     "lat": 35.724261,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "鬼子母神前",
     "address": "豊島区雑司が谷2",
     "lon": 139.715,
     "lat": 35.720333,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "学習院下",
     "address": "豊島区高田2",
     "lon": 139.71247,
     "lat": 35.716248,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "面影橋",
     "address": "新宿区西早稲田3",
     "lon": 139.714444,
     "lat": 35.712981,
-    "area": "wards"
-  },
-  {
-    "name": "早稲田",
-    "address": "新宿区西早稲田一丁目",
-    "lon": 139.718928,
-    "lat": 35.711848,
-    "area": "wards"
-  },
-  {
-    "name": "赤羽岩淵",
-    "address": "北区赤羽1-52-8",
-    "lon": 139.722103,
-    "lat": 35.783417,
-    "area": "wards"
-  },
-  {
-    "name": "秋葉原",
-    "address": "千代田区神田佐久間町一丁目6-10",
-    "lon": 139.774273,
-    "lat": 35.698889,
-    "area": "wards"
-  },
-  {
-    "name": "新御徒町",
-    "address": "台東区元浅草1-5-2",
-    "lon": 139.781958,
-    "lat": 35.707045,
-    "area": "wards"
-  },
-  {
-    "name": "浅草",
-    "address": "台東区西浅草三丁目1-11",
-    "lon": 139.792389,
-    "lat": 35.713817,
-    "area": "wards"
-  },
-  {
-    "name": "南千住",
-    "address": "荒川区南千住4丁目",
-    "lon": 139.798783,
-    "lat": 35.732413,
-    "area": "wards"
-  },
-  {
-    "name": "北千住",
-    "address": "足立区千住旭町",
-    "lon": 139.805092,
-    "lat": 35.74949,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "青井",
     "address": "足立区青井三丁目",
     "lon": 139.82038,
     "lat": 35.771782,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "六町",
     "address": "足立区六町四丁目",
     "lon": 139.821816,
     "lat": 35.784963,
-    "area": "wards"
-  },
-  {
-    "name": "新橋",
-    "address": "港区東新橋一丁目5-13",
-    "lon": 139.759644,
-    "lat": 35.665503,
-    "area": "wards"
-  },
-  {
-    "name": "汐留",
-    "address": "港区東新橋1丁目5",
-    "lon": 139.759985,
-    "lat": 35.662871,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "竹芝",
     "address": "港区海岸1-13-10",
     "lon": 139.762037,
     "lat": 35.654099,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "日の出",
     "address": "港区海岸2-7-68",
     "lon": 139.75906,
     "lat": 35.649136,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "芝浦ふ頭",
     "address": "港区海岸3-22-12",
     "lon": 139.757852,
     "lat": 35.641773,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "お台場海浜公園",
     "address": "港区台場2-3",
     "lon": 139.778607,
     "lat": 35.629813,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "台場",
     "address": "港区台場2-6",
     "lon": 139.771435,
     "lat": 35.625908,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東京国際クルーズターミナル",
     "address": "江東区青海1丁目1-49",
     "lon": 139.773157,
     "lat": 35.621462,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "テレコムセンター",
     "address": "江東区青海2-29",
     "lon": 139.779327,
     "lat": 35.617593,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "青海",
     "address": "江東区青海1",
     "lon": 139.781132,
     "lat": 35.62467,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東京ビッグサイト",
     "address": "江東区有明三丁目6-15",
     "lon": 139.791228,
     "lat": 35.630158,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "有明",
     "address": "江東区有明2-5",
     "lon": 139.793269,
     "lat": 35.634596,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "有明テニスの森",
     "address": "江東区有明1丁目",
     "lon": 139.78888,
     "lat": 35.639964,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "市場前",
     "address": "江東区豊洲6丁目",
     "lon": 139.78564,
     "lat": 35.645684,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "新豊洲",
     "address": "江東区豊洲6丁目",
     "lon": 139.789996,
     "lat": 35.648718,
-    "area": "wards"
-  },
-  {
-    "name": "豊洲",
-    "address": "江東区豊洲二丁目2",
-    "lon": 139.795414,
-    "lat": 35.653792,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "多摩センター",
@@ -6258,24 +4305,10 @@
     "area": "stama"
   },
   {
-    "name": "多摩動物公園",
-    "address": "日野市程久保3-36-39",
-    "lon": 139.403672,
-    "lat": 35.648666,
-    "area": "stama"
-  },
-  {
     "name": "程久保",
     "address": "日野市程久保8-1",
     "lon": 139.410698,
     "lat": 35.655093,
-    "area": "stama"
-  },
-  {
-    "name": "高幡不動",
-    "address": "日野市高幡139",
-    "lon": 139.415184,
-    "lat": 35.66148,
     "area": "stama"
   },
   {
@@ -6297,307 +4330,230 @@
     "address": "立川市柴崎町6-107",
     "lon": 139.409191,
     "lat": 35.689475,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "立川南",
     "address": "立川市柴崎町3-7",
     "lon": 139.412546,
     "lat": 35.696077,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "立川北",
     "address": "立川市曙町2-4",
     "lon": 139.41254,
     "lat": 35.699502,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "高松",
     "address": "立川市高松町1-100",
     "lon": 139.413242,
     "lat": 35.710158,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "立飛",
     "address": "立川市泉町935",
     "lon": 139.417387,
     "lat": 35.714717,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "泉体育館",
     "address": "立川市泉町841",
     "lon": 139.419525,
     "lat": 35.718775,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "砂川七番",
     "address": "立川市幸町5-1",
     "lon": 139.418097,
     "lat": 35.723319,
-    "area": "nwtama"
-  },
-  {
-    "name": "玉川上水",
-    "address": "立川市幸町6-36-1",
-    "lon": 139.417866,
-    "lat": 35.73223,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "桜街道",
     "address": "東大和市上北台3-470",
     "lon": 139.416653,
     "lat": 35.739,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "上北台",
     "address": "東大和市上北台1-742",
     "lon": 139.415822,
     "lat": 35.745824,
-    "area": "nwtama"
+    "area": "ntama"
   },
   {
     "name": "モノレール浜松町",
     "address": "港区浜松町二丁目4-12",
     "lon": 139.756747,
     "lat": 35.655666,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "天王洲アイル",
     "address": "品川区東品川2-5-19",
     "lon": 139.750675,
     "lat": 35.622908,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "大井競馬場前",
     "address": "品川区勝島2-2-35",
     "lon": 139.74708,
     "lat": 35.595006,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "流通センター",
     "address": "大田区平和島6-1-2",
     "lon": 139.748964,
     "lat": 35.58186,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "昭和島",
     "address": "大田区昭和島2-2-1",
     "lon": 139.749918,
     "lat": 35.570656,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "整備場",
     "address": "大田区羽田空港1-7-4",
     "lon": 139.753366,
     "lat": 35.555125,
-    "area": "wards"
-  },
-  {
-    "name": "天空橋",
-    "address": "大田区羽田空港1-1-2",
-    "lon": 139.75423,
-    "lat": 35.548908,
-    "area": "wards"
-  },
-  {
-    "name": "羽田空港第3ターミナル",
-    "address": "大田区羽田空港二丁目6-5",
-    "lon": 139.768206,
-    "lat": 35.544169,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新整備場",
     "address": "大田区羽田空港3-5-1",
     "lon": 139.786777,
     "lat": 35.542773,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "羽田空港第1ターミナル",
     "address": "大田区羽田空港3-3-2",
     "lon": 139.784653,
     "lat": 35.549163,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "羽田空港第2ターミナル",
     "address": "大田区羽田空港3-4-2",
     "lon": 139.787979,
     "lat": 35.550734,
-    "area": "wards"
-  },
-  {
-    "name": "新木場",
-    "address": "江東区新木場一丁目6",
-    "lon": 139.827402,
-    "lat": 35.646172,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "東雲",
     "address": "江東区東雲2-8-10",
     "lon": 139.804395,
     "lat": 35.640987,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "国際展示場",
     "address": "江東区有明2-5-25",
     "lon": 139.791617,
     "lat": 35.63441,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "東京テレポート",
     "address": "江東区青海1-2",
     "lon": 139.778896,
     "lat": 35.62753,
-    "area": "wards"
-  },
-  {
-    "name": "天王洲アイル",
-    "address": "品川区東品川2-5-19",
-    "lon": 139.750793,
-    "lat": 35.620562,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "品川シーサイド",
     "address": "品川区東品川4-12-22",
     "lon": 139.749549,
     "lat": 35.608524,
-    "area": "wards"
-  },
-  {
-    "name": "大井町",
-    "address": "品川区大井1丁目",
-    "lon": 139.735025,
-    "lat": 35.607535,
-    "area": "wards"
-  },
-  {
-    "name": "大崎",
-    "address": "品川区大崎一丁目21-4",
-    "lon": 139.728439,
-    "lat": 35.619772,
-    "area": "wards"
-  },
-  {
-    "name": "京成高砂",
-    "address": "葛飾区高砂五丁目28-1",
-    "lon": 139.866875,
-    "lat": 35.750932,
-    "area": "wards"
+    "area": "w23"
   },
   {
     "name": "新柴又",
     "address": "葛飾区柴又5-7-1",
     "lon": 139.879376,
     "lat": 35.75101,
-    "area": "wards"
-  },
-  {
-    "name": "日暮里",
-    "address": "荒川区西日暮里二丁目19-1",
-    "lon": 139.771287,
-    "lat": 35.727908,
-    "area": "wards"
-  },
-  {
-    "name": "西日暮里",
-    "address": "荒川区西日暮里五丁目31-7",
-    "lon": 139.766857,
-    "lat": 35.731954,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "赤土小学校前",
     "address": "荒川区東尾久4-7-7",
     "lon": 139.768989,
     "lat": 35.742454,
-    "area": "wards"
-  },
-  {
-    "name": "熊野前",
-    "address": "荒川区東尾久5",
-    "lon": 139.769695,
-    "lat": 35.748972,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "足立小台",
     "address": "足立区小台1-20-1",
     "lon": 139.770381,
     "lat": 35.754658,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "扇大橋",
     "address": "足立区扇2-25-7",
     "lon": 139.770808,
     "lat": 35.763897,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "高野",
     "address": "足立区扇2-45-1",
     "lon": 139.770679,
     "lat": 35.768359,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "江北",
     "address": "足立区江北4-30-27",
     "lon": 139.770306,
     "lat": 35.774021,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "西新井大師西",
     "address": "足立区江北6-30-23",
     "lon": 139.770094,
     "lat": 35.781505,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "谷在家",
     "address": "足立区谷在家3-20-23",
     "lon": 139.770043,
     "lat": 35.788774,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "舎人公園",
     "address": "足立区舎人公園1-10",
     "lon": 139.770183,
     "lat": 35.79623,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "舎人",
     "address": "足立区舎人1-16-15",
     "lon": 139.770108,
     "lat": 35.8057,
-    "area": "wards"
+    "area": "e23"
   },
   {
     "name": "見沼代親水公園",
     "address": "足立区舎人2-21-13",
     "lon": 139.770719,
     "lat": 35.814544,
-    "area": "wards"
+    "area": "e23"
   }
 ]

@@ -1,10 +1,20 @@
-import { type LatLngExpression, icon, type Map as llMap } from "leaflet";
+import leaflet, { type LatLngExpression, type Map as llMap } from "leaflet";
+import markerIcon from "leaflet/dist/images/marker-icon.png";
+import markerIconShadow from "leaflet/dist/images/marker-shadow.png";
 import type React from "react";
 import { useRef, useState } from "react";
 import { MapContainer, Marker, TileLayer } from "react-leaflet";
 import CityOption from "./CityOption";
 import StationRoulette from "./StationRoulette";
 import { SettingsIcon } from "./icons";
+
+const DefaultIcon = leaflet.icon({
+  iconUrl: markerIcon,
+  shadowUrl: markerIconShadow,
+  iconAnchor: [12, 41], // アイコンのとがった位置をクリックした場所に合わせるためのオフセット
+  popupAnchor: [0, -32], // ポップアップの位置も合わせて調整
+});
+leaflet.Marker.prototype.options.icon = DefaultIcon;
 
 type Props = {
   map: React.RefObject<llMap>;
@@ -27,7 +37,7 @@ const DisplayPosition: React.FC<Props> = ({
 };
 
 function App() {
-  // nntama(5), nstama(4), nwtama(3), stama(2), wtama(1), wards(0)
+  // wtama(4), stama(3), ntama(2), w23(1), e23(0)
   const [cityOption, setCityOption] = useState<number>(1);
   const [markerPosition, setMarkerPosition] = useState<LatLngExpression>([
     35.6815252972399, 139.76698937040683,
@@ -90,13 +100,7 @@ function App() {
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
           url="https://mt1.google.com/vt/lyrs=r&x={x}&y={y}&z={z}"
         />
-        <Marker
-          position={markerPosition}
-          icon={icon({
-            iconUrl: "./location_on.svg",
-            iconSize: [35, 35],
-          })}
-        />
+        <Marker position={markerPosition} />
       </MapContainer>
       {/* Roulette */}
       <DisplayPosition
